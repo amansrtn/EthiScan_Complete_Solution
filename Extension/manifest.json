@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Ethiscan",
+  "version": "1.0",
+  "description": "Detects dark patterns present in e-commerce websites",
+  "permissions": [
+    "activeTab",
+    "tabs","contextMenus",
+    "storage","<all_urls>", "webRequest", "webRequestBlocking"
+  ],
+  "browser_action": {
+    
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "common.js",
+        "extractor.js",
+        "content.js"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Price Extractor</title>
+
+  <style>
+    .tab {
+      overflow: hidden;
+    }
+
+    .tab-content {
+      max-height: 0;
+      transition: all 0.5s;
+    }
+
+    input:checked+.tab-label .test {
+      background-color: #000;
+    }
+
+    input:checked+.tab-label .test svg {
+      transform: rotate(180deg);
+      stroke: #fff;
+    }
+
+    input:checked+.tab-label::after {
+      transform: rotate(90deg);
+    }
+
+    input:checked~.tab-content {
+      max-height: 100vh;
+    }
+
+    body {
+      min-width: 300px;
+      /* Set a minimum width */
+      min-height: 600px;
+      /* Set a minimum height */
+    }
+
+    .highlighted-link {
+      background-color: yellow;
+      border: 2px solid red;
+    }
+
+    .backdrop-blur-md {
+      backdrop-filter: blur(8px);
+      /* You can adjust the blur value */
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+
+</head>
+
+<body>
+
+  <div class=" bg-blue-300 h-screen relative">
+    <div class="bg-cover bg-bottom p-3 space-y-5 bg-blue-300 ">
+      <div class="m-4 p-2 w-80 rounded-full w-64 shadow-xl opacity-90 bg-blue-200">
+        <div class="text-3xl m-2 font-bold font-mono text-center">
+          EthiScan
+        </div>
+      </div>
+
+
+
+      <div class="grid grid-cols-1">
+        <!-- <div class="m-1 text-center rounded-xl">
+          <div class="grid w-full place-items-centerrounded-lg p-1">
+            <div role="alert"
+              class="relative block w-full text-base font-regular px-4 py-4 rounded-lg bg-gray-900 text-white flex">
+              <div class="">
+                <p class="font-bold text-red-500">Extracted Price:
+                <p class="text-red-300" id="extpri">
+                  
+                </p>
+                </p>
+              </div>
+            </div>
+          </div>
+          <button type="button" id="extractButton"
+            class='bg-gradient-to-r  from-indigo-500 via-pink-500 to-yellow-500 hover:from-indigo-600 hover:via-pink-600 hover:to-red-600 focus:outline-none text-white text-md uppercase font-bold shadow-md rounded-full mx-auto p-2'>
+            <div>Extract Price</div>
+          </button>
+        </div> -->
+        <div class="m-1 text-center rounded-xl">
+          <div class="grid w-full place-items-centerrounded-lg p-1">
+            <div role="alert"
+              class="relative block w-full text-base font-regular px-4 py-4 rounded-lg bg-gray-900 text-white flex">
+              <div class="">
+                <p class="font-bold text-red-500">Hidden Cost:
+                <p class="text-red-300" id="extdif">
+
+                </p>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- <button type="button" id="calcDiff"
+            class='bg-gradient-to-r  from-indigo-500 via-pink-500 to-yellow-500 hover:from-indigo-600 hover:via-pink-600 hover:to-red-600 focus:outline-none text-white text-md uppercase font-bold shadow-md rounded-full mx-auto p-2'>
+            <div>Extract Hidden Cost</div>
+          </button> -->
+        </div>
+
+      </div>
+
+
+      <div class="relative">
+        <div class="border border-gray-400 rounded-md backdrop-blur-md bg-white p-2 relative z-20">
+          <div class="m-3 text-xl text-center border rounded-xl shadow-xl p-1 font-bold font-mono">
+            <p id="dkcount"></p> types of dark pattern found
+            <!-- <div id="darkwords" class="font-sans font-light">
+              <ul id="dksentence"></ul>
+            </div> -->
+          </div>
+
+
+          <div id="dtype-container" class="p-4">
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+        <div class="absolute -inset-1 rounded-md bg-gradient-to-br from-pink-500 via-cyan-500 to-violet-500 z-10"></div>
+      </div>
+
+
+
+      <div class="relative">
+        <div class="border border-gray-400 rounded-md backdrop-blur-md bg-white relative z-20">
+          <div class="m-1 text-xl text-center border rounded-xl shadow-xl p-1 font-bold font-mono">
+            Nagging link:
+            <p id="highlink" class="font-sans font-light"></p>
+          </div>
+        </div>
+        <div class="absolute -inset-1 rounded-md bg-gradient-to-br from-pink-500 via-cyan-500 to-violet-500 z-10"></div>
+      </div>
+      <div class="flex flex-col justify-center item-center space-y-5 justify-between">
+        <button type="button" id="clearCheckbox"
+          class="border border-indigo-500 font-bold bg-blue-200 rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline">
+          Uncheck All Checkboxes
+        </button>
+
+        <button type="button" id="subscriptiontricky"
+          class="border border-indigo-500 font-bold bg-blue-200 rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline">
+          Subscription Cancel Button
+        </button>
+
+        <button type="button" id="termsncondition"
+          class="border border-indigo-500 font-bold bg-blue-200 rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline">
+          Scan for Terms and conditon
+        </button>
+        <!-- <p id="termsnconditionpara"
+          class="border border-indigo-500 font-bold bg-blue-200 rounded-md px-4 py-2 transition duration-500 ease select-none hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline">
+          
+        </p> -->
+
+        <button type="button" id="clearStorageButton"
+          class="border border-red-500 text-red-500 bg-red-100 font-bold px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-red-600 focus:outline-none focus:shadow-outline">
+          Clear Storage
+        </button>
+
+      </div>
+      <!-- <div class="text-center border bg-blue-500 rounded-xl m-2 p-1">
+        <button id="findHighestButton">Highest Occurred link:</button>
+        <div id="highlink"></div>
+      </div> -->
+
+      <!-- <div
+        class="text-center absolute bottom-5 bg-blue-200 border-2 text-red-600 text-xl rounded-xl m-2 p-1 hover:bg-blue-400 duration-700">
+        <button id="clearStorageButton">Clear Storage</button>
+      </div>
+      <div
+        class="text-center absolute bottom-5 right-5 bg-blue-200 border-2 text-red-600 text-xl rounded-xl m-2 p-1 hover:bg-blue-400 duration-700">
+        <button id="clearCheckbox">Clear Checkboxes</button>
+      </div> -->
+
+
+      <!-- <button id="extractButton">Extract Price</button><br>
+      <button id="scanButton">Scan Links</button>
+      <button id="findHighestButton">Find Highest Link</button>
+      <button id="clearStorageButton">Clear Storage</button>
+      <button id="calcDiff">Diff Price</button>
+      <div>
+        <span id="print"></span>
+      </div> -->
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
+</html>

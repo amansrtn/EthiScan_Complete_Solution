@@ -1,0 +1,17 @@
+Django==5.0.2
+easyocr==1.7.1
+Flask==3.0.2
+flask_cors==4.0.0
+gradientai==1.7.0
+lightgbm==4.3.0
+llama_index
+nltk==3.8.1
+numpy==1.25.2
+opencv_contrib_python==4.8.1.78
+opencv_python_headless==4.9.0.80
+pandas==2.0.3
+Pillow
+python_dateutil==2.8.2
+scikit_learn==1.2.2
+textblob==0.15.3
+transformers==4.38.1

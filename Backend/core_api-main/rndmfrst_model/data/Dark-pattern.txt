@@ -1,0 +1,1607 @@
+What Are Dark Patterns? 
+The term “dark patterns” was coined by Harry Brignull in 2010 to describe deceptive user interfaces in apps and websites. They are intentionally designed to trick or manipulate users into doing something they don’t want to do. 
+
+A simple example would be two buttons side-by-side, one green and one red. The green button says, “No” and the red button says, “Yes”. Putting green over the word, “No” makes people more likely to click it when they mean to click, “Yes”. 
+
+In many cases, dark patterns are nothing more than cheap tactics designed to take advantage of attention lapses. It’s an intentionally deceptive user interface design strategy that creates bad experiences for people. 
+
+If you want to build authentic relationships with your customers so that they keep coming back to you again and again, you should work hard to avoid dark patterns. 
+
+What Are The Types Of Dark Patterns?
+Let’s look at some of the most common types of dark patterns, along with some much better alternatives. 
+
+Confirmshaming
+Confirmshaming attempts to leverage shame to motivate users to take action. For example, many ecommerce websites use pop-ups where the opt-out option is worded so that the user feels guilty or foolish if they don’t comply. 
+
+For example, Dailylook tries to shame users into providing their email address in exchange for a discount code. The implication is that if you don’t get the discount then you obviously don’t care about looking good. 
+
+Dailylook uses dark patterns to shame customers when trying to get an email
+Alternative: Think about how shame actually feels. Not good, right? Do you really want your customers associating your brand with that negative feeling? Rather than relying on confirmshaming to build your email list, focus on A/B testing different messaging on your pop-up to determine what your audience responds positively to. 
+
+A/B test example from sneaker club avoids dark patterns
+Bait-and-Switch
+With bait-and-switch, a product or service is promoted as being either totally free or drastically reduced in price. However, when people try to get the product they discover that it’s unavailable or only available in very small quantities. Customers are then given the option of buying something that costs more or is of lesser quality. This is a tactic that might seem harmless from a designer’s perspective, but it’s almost guaranteed to have a negative impact on the customer journey and will erode any trust that you’ve worked to build with your audience.
+
+Alternative: Instead of attempting to lure people to your website with artificially low prices, focus on optimizing your product detail pages to highlight the key differentiating features of your products. Rather than luring visitors to your site with unrealistic expectations, amplify what makes your product great, and your target audience will take notice. 
+
+Forced Continuity
+You’ve probably signed up for a free trial of something, forgotten to cancel it, and then automatically been billed when the trial expired. That’s forced continuity. You’re not given an opportunity or reminder to opt out of the trial, and it’s often exceedingly difficult to cancel before you’re charged for the premium subscription. 
+
+Unfortunately, this dark pattern is used everywhere, including Amazon Prime. In the worst cases, companies will sometimes go as far as to make users contact their customer support team to cancel a membership. 
+
+Here’s an example of both bait-and-switch and forced continuity from Coursera. They offer the ability to “audit” online courses for free but the only way to get it is to read the fine print at the very bottom and click the link. So most users end up signing up for a free trial, which requires a credit card. As soon as the trial is over, they’re billed $49.99/month. 
+
+free trial tricks customers into sharing their information when they could just audit a course. this is considered a dark pattern
+Alternative: If your business relies on a free trial to interest and nurture potential customers, don’t rely on forced continuity to increase your subscription numbers. It’s a deceitful way to treat customers and it’ll only hurt your brand reputation in the long-term. Instead, utilize a win-back email sequence to help retarget the users that did sign-up for your free trial. 
+
+Enjoying this article?
+Subscribe to our newsletter, Good Question, to get insights like this sent straight to your inbox every week.
+
+Your Email Address*
+Roach Motel
+The roach motel dark pattern makes it relatively easy for a user to get into a situation but very difficult for them to get out of it. Often, there are negative consequences for backing out, which makes users less inclined to do it. 
+
+Skype is a prime example of using this tactic to keep users signed-up for their services. If you’ve ever tried to cancel or deactivate your account with Skype, it’s nearly impossible. The only way to cancel your account with Skype is by contacting their customer service team and it can take up to two weeks to process your request to delete your account and remove your name from the directory. 
+
+Alternative: The problem with using this technique is that it creates ill will between your company and your customers. A quick look at Skype support forums shows complaint after complaint from customers who are upset about the hurdles they had to go through to cancel.
+
+If you must have cancellation penalties to offset the costs of churn, be upfront about those penalties from the very beginning. Make sure that your customers understand what they’re getting into so that you don’t surprise them when they try to cancel their subscription. It’ll make your company appear more trustworthy and will likely have a positive impact on conversions. 
+
+Hidden Costs
+Few things are more maddening than going through a multi-step checkout process, only to discover at the very end that there are additional charges, such as taxes or delivery fees. Hidden costs almost always make customers feel frustrated and can result in abandoned carts. 
+
+In his article “The User Experience Of Flower Websites”, Jeff Sauro draws attention to the problem of hidden costs on many well-known flower websites. When customers encounter these surprise charges, their overall satisfaction levels drop significantly, making them less likely to buy from these companies in the future. 
+
+add to cart dark patterns doesn't properly show the costs
+Alternative: Be clear and upfront about all the costs that make up the final price. Don’t surprise customers with additional shipping charges or unexpected fees or you’ll end up dealing with increased cart abandonment. 56% of consumers will abandon their cart if they’re presented with unforeseen charges and fees at checkout. 
+
+Price Comparison Prevention
+With this dark pattern, users are prevented from comparing prices between different products or services. The thinking is that if customers can’t see the prices, they can be more easily pushed toward buying specific items (like those with the highest profit margins). Of course, the reality is that this practice leaves customers frustrated and may lead them to shop where they actually can compare prices. 
+
+LinkedIn is an example of keeping users from comparing their premium plans against each other. To see the individual price tiers, you have to navigate to a separate page on their site. While this isn’t necessarily tricking users into completing an undesirable action, it’s forcing them to jump through an extra hoop to properly compare the price of each premium tier.  
+
+linkedin premium screenshot
+Alternative: Make it simple for customers to compare product prices on your site. This will make budget-conscious shoppers happy and provide a much better overall user experience for your customers. 
+
+Sneak Into Basket
+In years past, some ecommerce websites would automatically add products into users carts, forcing them to manually remove them if they didn’t want them. As you can imagine, this practice greatly annoyed consumers and isn’t used all that much anymore. However, some websites will manipulate users into adding something they don’t want by pre-selecting an option for them. 
+
+Romwe is guilty of this, automatically pre-selecting “Shipping Insurance” when you go to checkout. If you don’t uncheck it, it will be added to your order. 
+
+opt ins that sneakily add shipping insurance are shown here, a clear example of dark patterns
+Alternative: This should be an obvious one. Adding additional items or fees to your customers’ cart is an inexcusable dark pattern that immediately obliterates any credibility and trust that you’ve established with your audience. There are plenty of alternatives to tricking your visitors into buying additional items to increase your average order value. One of the simplest ways to do this is by implementing a free shipping threshold so users are encouraged to add additional items to their cart to qualify for free shipping. 
+
+Don’t Go To The Dark Side
+Using dark patterns is a poor strategy for increasing your website’s conversion rate. Yes, you may be able to generate some sales with them but you’ll be hurting the reputation of your business in the long-term. When customers feel like they’ve been tricked or manipulated, they won’t shop with you again. Your customer lifetime value will fall and there’s a good chance those upset customers will tell their friends about their negative experience. 
+
+Rather than using deception in an attempt to increase your conversion rates, try harnessing your website data to make incremental improvements to your website. The strategies used in conversion rate optimization will allow you to create real, authentic relationships with your customers and increase your revenue at the same time. 
+
+
+
+
+What are Dark Patterns?
+ 
+
+Dark patterns occur online when a user is tricked to perform a behavior they:
+
+Don’t want to do
+Find difficult to do 
+Aren’t aware they are doing
+It’s as simple as that. 
+
+Dark patterns are deliberate user interface (UI) design choices that manipulate the individual into carrying out these reluctant behaviors. 
+
+Let’s put it this way - your shoppers have certain expectations. And if you do anything to harm that expectation, reverse it, or manipulate it, then you’re either creating a straight-up conversion killer or a dark pattern. 
+
+dark patterns
+
+Imagine that you’re buying earrings. You enter a high-end jewelry store: 
+
+what are dark patterns
+
+ 
+
+You expect to be greeted by a store assistant. You expect the assistant/clerk to have a robust knowledge of what they’re selling to guide you. You may even expect the store to have glass displays, cleanliness, luxury, classical music, you name it. 
+
+Now imagine that you’re shopping online for the same earrings. 
+
+The first thing that pops up on the jewelers’ webshop is a sales-y message. You can’t find the “x” so you are forced to click the CTA, which directs you to the most expensive earrings on the webshop.
+
+Way out of budget. 
+
+Imagine no “add-to-cart” buttons, but instead, you have to remove all the items you don’t want in order to save the item you do want to your cart. 
+
+dark patterns ui experiment
+
+The most frustrating experiment in UI, contradicting all UX expectations. Play the game here.
+
+ 
+
+And when you finally go to checkout, all the items you’ve spent time removing are instantly added to the final price!
+
+Lastly, in order to pay by credit card, you have to fill in weird details about yourself like your hair color and work address, and the webshop doesn’t say why.  
+
+This is actually an extreme case of bad persuasive design. Most dark patterns on shopping websites will be more subtle than that, but no less frustrating.  
+
+In short, dark patterns confront expectations making behavior more difficult. More often than not, they leave the user feeling frustrated and tricked.
+
+
+
+
+Why it’s Important to Understand and Unveil Dark Patterns
+ 
+
+In September 2019, the US Senate introduced a bill to stop dark patterns. Aside from the legislature taking more precautions to curb online manipulation, your shoppers are also becoming more empowered as they browse online. 
+
+Common dark patterns are now easier to spot. If your shoppers come face to face with one on your website, this will harm the overall user experience online. 
+
+When the founder of https://www.darkpatterns.org/ Harry Bignull first coined the term “dark patterns” in 2010, he defined them as “dirty tricks to increase conversion rates”.  
+
+
+dark patterns for eCommerce
+
+@darkpatterns Hall of Shame on twitter where people post examples they’ve encountered across the web. 
+
+ 
+
+Tricky usability guidelines, deceptive user interfaces, manipulative - dark patterns exploit consumer psychology to try and force negative behavior in line with the website’s interests. 
+
+ 
+
+“A dark pattern is when you expect something to happen based on your previous online experience, and then something entirely different happens.” - Joris Fonteijn, Chief Behavioral Officer at Crobox 
+
+dark patterns expectation vs reality
+
+You would expect the green button to go forward into your journey, not the opposite. This is a dark pattern because it’s trying to trick the user into not deactivating the account.  
+
+ 
+
+Why is this important for eCommerce psychology?
+
+If your webshop design doesn’t meet your shopper’s expectations or your copy is hard to decipher or manipulative, your CLV will be stunted. Your sales will decrease over time. And your customer-centric direction will be a thing of the past. 
+
+That’s because dark patterns exploit our base psychology. 
+
+ 
+
+Dark Patterns Psychology
+ 
+
+As I said, humans are lazy. 
+
+The psychology behind heuristics is discussed in Kahneman’s Thinking, Fast and Slow, where he talks about how humans use Systems 1 and 2 to make decisions.  
+
+systems 1 and 2 dark patterns
+
+System 1 is the “lazy” part of the brain. It’s the automatic, reflexive part that influences fast-acting behavior like clicks on a webshop. Whereas System 2 is more contemplative and rationalizing. 
+
+System 1 operates on cognitive biases to facilitate these quick decisions. And dark patterns work by exploiting these cognitive biases.
+
+ 
+
+“Dark patterns stem from hijacking people’s mental shortcuts. If someone is orchestrating your behavior and using this to your disadvantage, this will no doubt cost you money in the long run.” - Joris, CBO at Crobox
+
+
+dark patterns no choice
+
+What if the article didn’t answer the question? I only have the choice to click “Yes”. Dark patterns remove choice, narrowing the consumer’s freedom. 
+
+ 
+
+Many dark patterns also remove the consumer’s ability to choose. They are built on fighting for the consumer’s attention in a way that limits the consumer’s freedom. Dark patterns are often placed when the user is experiencing cognitive overload. In eCommerce, this is in the small print, at the end of the customer journey, or in ads.  
+
+ 
+
+“A dark pattern is something you don’t want to do, purchase, or agree to. It also occurs when the user has deliberate, decreased ability to perform a behavior or complete a task.” - Patrick, Consumer Psychologist at Crobox
+
+ 
+
+If you take Fogg’s Behavioral Model, where nudges fall within the optimal prompt point, dark patterns ultimately fall at the prompt failure point. 
+
+ 
+
+dark patterns FBM
+
+
+So while they might seem like persuasive shortcuts to increase conversions, dark patterns will actually cause more problems to your webshop in the long run. They will minimize ability and motivation, and leave your customers dissatisfied.  
+
+Let’s take a look at why this is the case.
+
+ 
+
+Common Types of Dark Patterns (and why these are psychologically a no-go)
+ 
+
+Confirmshaming 
+
+confirmshaming dark pattern
+
+Ever seen something similar to this before? This is an extreme case of Confirmshaming. But it happens;
+
+ 
+
+dark patterns confirmshaming
+
+This is a dark pattern because it shames the customer into choosing an option that is desirable for the website, but not necessarily for the user. 
+
+dark patterns confirmshaming loft 
+
+
+“Paternalism” means guiding people in their best interest. “Libertarian” is preserving the user’s freedom of choice. Libertarian Paternalism is the foundation of nudge theory, and actually just a fancy word for “nudge”. Dark patterns contradict libertarian paternalism. 
+
+dark patterns confirmshaming dog
+
+ 
+
+That’s the difference between a nudge and a dark pattern. Nudges create positive experiences, facilitate decision-making, and definitely don’t insult their target audience. Although smart notifications and exit-intent overlays are great nudges, the Confirmshaming copy is a dark pattern that will leave negative feelings.
+
+What you should do instead:
+
+Use copy that reinforces positive decision-making, letting the consumer choose the best option themselves.
+Draw attention to your CTAs with color, rather than manipulative copy. 
+Make your interactive overlays nudges and not dark patterns by letting the user choose between options that will make them feel good. 
+ 
+
+Privacy Zuckering 
+ 
+
+privacy zuckering dark pattern 
+
+A nod to its namesake, Privacy Zuckering is when a user agrees to something without acknowledging the full extent of their consent. This is usually in relation to data privacy. 
+
+
+dark patterns privacy zuckering
+
+Whatsapp updates, for example, push you to agree to their Terms and Conditions without revealing all the extra data they will have access too when you click “agree”. It’s only when you click “read more” that you see everything you’re agreeing to share. 
+
+ 
+
+whatsapp privacy zuckering dark patterns
+
+The copy is also deliberately tricky. We expect to tick something that’s in our best interest. But having a default tick coupled with the copy “will not”, and the “agree” button all at the same time is confusing. 
+
+ 
+
+“Making things deliberately confusing is also a dark pattern. If I want to agree to something by checking a box, that should be it. I shouldn’t also have to automatically agree to things I can’t see as that wasn’t part of the deal.” - Patrick, Consumer Psychologist at Crobox
+
+What you should do instead:
+
+the guardian cookies dark patterns
+From The Guardian: why register, and what they are going to do with the reader’s data in terms of advertising. The letter is personal, informative, and there are clear areas on the website to direct the user towards this page. 
+
+ 
+
+Be transparent about your cookies and what they are used for - for example, The Guardian explicitly shows that if you accept cookies you will be provided with more tailored ads and more.  
+Make sure you have separate boxes for anything you want your customers to agree to, so they see the difference in providing data, subscribing to something, or sharing information.  
+Provide as much information to your customers without hiding it. Make sure the information is accessible and clear. 
+ 
+
+“Asking for a consumer’s cookies should be a conversation. As a retailer, tell them why you need their cookies. Is it for tailored recommendations? Personalized ads? Do this to promote ease throughout the journey, instead of interrupting it.” - Joris, CBO at Crobox
+
+ 
+
+Hidden Costs
+dark patterns aribnb hidden costs
+
+Airbnb could be accused of Hidden Costs because they almost double the initial price with these extra costs. However, this isn’t a dark pattern because the customer isn’t charged yet, and can see a clear breakdown of costs before completing their reservation. It’s not entirely hidden, but it is frustrating. 
+
+ 
+
+Another common dark pattern is Hidden Costs.
+
+Dark pattern classpass hidden cost
+
+ 
+
+For example, ClassPass (sigh). I signed up for ClassPass thinking I could take a break anytime during my membership and resume whenever I felt like it.  
+
+Unfortunately, you can’t see the parameters of this membership-break without becoming a member first. Lack of information and costs that aren’t revealed at the start: these are dark patterns. 
+
+Instead, ClassPass offers to switch your membership to something lighter, but for that, you have to pay. If you want to cancel your membership, you have to chat with someone online instead of just clicking a button, making it much harder and time-consuming (a Roach Motel dark pattern we’ll see next). 
+
+This is sneaky because I wasn’t made aware of these steps beforehand. If you want your CX to be amazing, it’s key you disclose all costs at the very start of the journey, preferably before the consumer has paid anything at all. 
+
+What you should do instead:
+
+“Stick to what people expect. Otherwise, people will need to move from System 1 to System 2 ways of thinking, which will deplete your customers.” - Joris, CBO at Crobox
+
+dark patterns best practice everlane be transparent
+
+An extreme example of price transparency is from Everlane. Not only do they show the entire costs that go into making a product (in line with their sustainable supply chain), but they also let consumers choose prices on certain products. Brands that lean towards transparency and away from dark patterns will delight their customers. 
+
+ 
+
+Be transparent. You don’t have to go as far as Everlane. To start, this means showing your shoppers all the costs of shipping instead of adding them on at the end. And certainly don’t sneak any extra retail costs without telling them first. 
+Be efficient with your communication. If you offer subscriptions or memberships, communicate your customers’ next payment to avoid any surprise. 
+
+dark patterns how to be transparentGive your customers the freedom to choose, with options that show clear costs. The plus side of the Chive’s approach is that they preserve their brand tone-of-voice whilst still being transparent. 
+
+ 
+
+dark patterns best practice cosCOS's email is transparent about their privacy updates, which is a good way to engage their customers in an honest way. 
+
+ 
+Roach Motel 
+ 
+
+ClassPass actually shows two instances of dark patterns at work at different parts of the journey., The difficulty of getting out of a ClassPass subscription is called a Roach Motel dark pattern.
+
+For example, canceling accounts on LinkedIn or Amazon. I mean, have you ever tried canceling your Amazon account? 
+
+dark patterns roach motel amazon
+
+Unlike what you expect when canceling an account, you have to find "help & customer service" which is mostly hidden under a multitude of unnecessary options.
+
+I felt a bit like a character from The Shining, trying to navigate a maze. 
+
+dark patterns roach motel
+
+Not to compare Jeff Bezos to the crazed Jack Torrence of Stephen King’s imagination, but you get the idea. 
+
+What you should do instead:
+
+Of course, you want to keep your members at all costs, but there’s no point in making things difficult for them if they do want to leave. Instead, nurture your registered members with deals, delightful email marketing, and seamless customer journeys.
+Personalize your membership option so your customers have access to their history, recommended products, and fully accessible account details (including canceling the account). 
+These common dark patterns are easily unveiled online, and webshops are guilty of them. 
+
+In fact, Princeton University crawled 11k shopping websites to reveal 1,818 instances of dark patterns. Which means these retailers are losing sales and damaging their customer-centricity. 
+
+That being said, it’s important that we look at more subtle instances of dark patterns so that you can avoid these at all costs.  
+
+ 
+
+eCommerce Dark Patterns to Avoid at All Costs 
+ 
+
+1. Fake Urgency Scarcity 
+
+dark patterns booking.com fake
+
+There is a big difference between using persuasion to nudge users into making a positive decision with less stress and using untruthful pressure tactics.  
+
+Booking.com has been called out multiple times for using Scarcity untruthfully to pressure their customers into buying. This is a dark pattern. It exploits the cognitive bias that people will respond to things that are scarce and thus manipulates the consumer.  
+
+dark patterns booking.com scarcity
+
+ 
+
+If you want to use Urgency Scarcity, you need to make sure your copy is data-driven and truthful. I.e., If you have a message displaying limited stock, you should actually have limited stock. 
+
+“You can still make your designs more persuasive without making them dark patterns. Check your copy is true, adhere to internet standards, and stick to what people expect.” - Joris, CBO at Crobox 
+
+ 
+
+2. Forced Continuity 
+
+dark patterns next obligatory sign in
+
+In some cases, forced action looks like obligatory sign-ins on webshops. This example above (Next) isn’t strictly a dark pattern but does interrupt the UX, becoming a blatant conversion killer.  
+
+What makes this kind of forced action a dark pattern is when the user is tricked into giving their personal data away in order to complete their purchase. 
+
+Instead, you should give your customers the choice: either register with you or check out as a guest. 
+
+“When you force something that someone doesn’t need or want, you are in essence taking someone’s freedom away. This is a psychological problem, and should be avoided at all costs” - Joris, CBO at Crobox.
+
+ 
+
+3. Sneak-Into-Basket 
+
+dark pattern 1800 flowers sneak into basket
+
+ 
+
+1-800 Flowers comes up often in Princeton’s website crawl. And what do they do especially well? They sneak in extra costs without alerting the shopper. 
+
+Another subtle dark pattern they use is to pre-select the “Deluxe” option on the PDP, which is more expensive than the standard price shown above. This capitalizes on our laziness to change the status quo (i.e., inertia bias). 
+
+It also sneaks a cost into the cart that is higher than the $59.99 shown, which is just plain misdirection. The price on the PDP should change according to which option is selected below. 
+
+ 
+
+dark pattern sports direct sneak into basketDon’t sneak extra products into your customers’ basket, even if they are at a low-price like this Sports Direct magazine. This causes friction, as the customer will have to remove the product, interrupting the buying journey. 
+
+
+
+
+4. Misleading Subscription 
+
+dark patterns membership confusing copyThis copy is tricky. It’s not obvious which button I should click to cancel my membership. This is a dark pattern. 
+
+ 
+
+A lot of webshops will sneak in a subscription to a newsletter or email to keep re-targeting customers. 
+
+But remember: a dark pattern is forcing behavior that is harder to do. Sneaking subscriptions into your customers’ inboxes means they will have to spend time unsubscribing, causing friction. 
+
+dark patterns COS newsletter subscripton
+
+This example from COS isn’t strictly a dark pattern because the copy is clear and directional. However, I never had the option to opt-out of the newsletter. For people who don’t like to read, this opt-in was automatically selected, removing the freedom to choose. 
+
+treatwell dark patterns
+
+This one above is a more extreme example. The user here has two options:
+
+TREATWELL-NEWSLETTER
+
+Check this box if you do not want to receive Treatwell emails regarding the latest offers and beauty news.
+SALONMARKETING 
+
+By ticking this option, I allow the salon to send me emails and text messages regarding their treatments.
+The second copy of the checkbox actually camouflages the first, which is a dark pattern. When thinking with System 1, our response would be to ignore the first option. Plus, ticking a box to not receive something is deceiving, and doesn’t meet our UX expectations. 
+
+dark patterns trick double negativesDouble negatives like when you have to tick a box to not receive something. 
+
+ 
+
+Things like double negatives in your copy are dark patterns because they make things deliberately confusing.
+
+Instead, 
+
+Make things easy! Don’t pile on the cognitive overload by exploiting how people skim read. 
+Make your copy as simple as possible, especially in small-print, below the fold information. 
+If you want to get people to subscribe to your newsletter, make it appealing to their personal interests (be that in providing discounts, offers, product recommendations, etc.). 
+ 
+
+Are Dark Patterns Here to Stay?
+
+dark patterns at scale crawl
+The thing is, the internet is continuously changing. UX and consumer behavior have a give-and-take relationship. The more dark patterns are used, the more the consumer becomes aware of them. 
+
+“There’s always a clear line between helping the consumer and tricking them. But this shade of darkness and its use will change over time, mostly due to increased awareness and the emergence of new technologies. When consumers realize they’re being used, they will find the path of least resistance and move towards the competition.” - Joris, CBO at Crobox 
+
+The question you should be asking is, how can I leverage psychology to provide the best customer experience? Not: how can I exploit psychology to increase conversions? 
+
+These are the questions and strategies that will separate the leading retailers from the laggards. It’s about optimizing your online offering based on your customers, not your conversions.  
+
+Dark patterns:
+
+Interrupt a user’s expectations of shopping online, fostering distrust of the website
+Are psychologically exploitative and, therefore, bound to fail.
+Are being unveiled, which means consumers are savvy to them, and the law will find measures to keep these in check. 
+As an online retailer, it’s your responsibility to ensure your website is free of these “dirty little tricks”. 
+
+If you do want to leverage consumer psychology in an honest way, nudge marketing will help you remain relevant and persuasive, without resorting to dark patterns. 
+
+
+
+
+
+Findings from a Crawl of 11K
+Shopping Websites
+
+Dark patterns are user interface design choices that benefit an online service by coercing, steering, or deceiving
+users into making unintended and potentially harmful decisions. We present automated techniques that enable
+experts to identify dark patterns on a large set of websites. Using these techniques, we study shopping
+websites, which often use dark patterns to influence users into making more purchases or disclosing more
+information than they would otherwise. Analyzing ∼53K product pages from ∼11K shopping websites, we
+discover 1,818 dark pattern instances, together representing 15 types and 7 broader categories. We examine
+these dark patterns for deceptive practices, and find 183 websites that engage in such practices. We also
+uncover 22 third-party entities that offer dark patterns as a turnkey solution. Finally, we develop a taxonomy
+of dark pattern characteristics that describes the underlying influence of the dark patterns and their potential
+harm on user decision-making. Based on our findings, we make recommendations for stakeholders including
+researchers and regulators to study, mitigate, and minimize the use of these patterns.
+1 INTRODUCTION Dark patterns [32, 48] are user interface design choices that benefit an online service by coercing,
+steering, or deceiving users into making decisions that, if fully informed and capable of selecting
+alternatives, they might not make. Such interface design is an increasingly common occurrence on
+digital platforms including social media websites [46], shopping websites [32], mobile apps [5, 31],
+and video games [85]. At best, dark patterns annoy and frustrate users. At worst, they can mislead
+and deceive users, e.g., by causing financial loss [1, 2], tricking users into giving up vast amounts of
+personal data [46], or inducing compulsive and addictive behavior in adults [74] and children [21].
+While prior work [31, 32, 38, 48] has provided taxonomies to describe the existing types of
+dark patterns, there is no large-scale evidence documenting their prevalence, or a systematic and
+descriptive investigation of how the different types of dark patterns harm users. Collecting this
+information would allow us to first examine where, how often, and the technical means by which
+dark patterns appear; second, it would allow us to compare and contrast how various dark patterns
+influence users. In doing so, we can develop countermeasures against dark patterns to both inform
+users and protect them from such patterns. Further, given that many of these patterns are potentially
+unlawful, we can also aid regulatory agencies in addressing and mitigating their use.
+In this paper, we present an automated approach that enables experts to identify dark patterns
+at scale on the web. Our approach relies on (1) a web crawler, built on top of OpenWPM [25, 40]—a
+web privacy measurement platform—to simulate a user browsing experience and identify user
+interface elements; (2) text clustering to extract all user interface designs from the resulting data;
+and (3) inspecting the resulting clusters for instances of dark patterns. We also develop a taxonomy
+so that researchers can share descriptive and comparative terminology to explain how dark patterns
+subvert user decision-making and lead to harm. We base this taxonomy on the characteristics of
+dark patterns as well as the cognitive biases they exploit in users.
+While our automated approach generalizes, we focus this study on shopping websites, which are
+used by an overwhelming majority of people worldwide [41]. Dark patterns found on these websites
+trick users into signing up for recurring subscriptions and making unwanted purchases, resulting in
+concrete financial loss. We use our web crawler to visit the ∼11K most popular shopping websites
+worldwide, create a large data set of dark patterns, and document their prevalence. Our data set
+contains several new instances and variations of previously documented dark patterns [32, 48].
+Finally, we use our taxonomy of dark pattern characteristics to classify and describe the patterns
+we discover. We have five main findings:
+• We discovered 1,818 instances of dark patterns on shopping websites, which together represent 15 types of dark patterns and 7 broad categories.
+• These 1,818 dark patterns were found on 1,254 of the ∼11K shopping websites (∼11.1%) in our
+data set. Shopping websites that were more popular, according to Alexa rankings [9], were
+more likely to feature dark patterns. These numbers represent a lower bound on the total
+number of dark patterns on these websites, since our automated approach only examined
+text-based user interfaces on a sample of product pages per website.
+• In using our taxonomy to classify the dark patterns in our data set, we discovered that
+the majority are covert, deceptive, and information hiding in nature. Further, many patterns
+exploit cognitive biases, such as the default and framing effects. These characteristics and
+biases collectively describe the consumer psychology underpinnings of the dark patterns we
+identified.
+• We uncovered 234 instances of dark patterns—across 183 websites—that exhibit deceptive
+behavior. We highlight the types of dark patterns we encountered that rely on deception.
+• We identified 22 third-party entities that provide shopping websites with the ability to create
+and implement dark patterns on their sites. Two of these entities openly advertised practices
+that enable deceptive messages.
+Through this study, we make the following contributions:
+• We contribute automated measurement techniques that enable expert analysts to discover
+new or revisit existing instances of dark patterns on the web. As part of this contribution, we
+make our web crawler and associated technical artifacts available on GitHub1
+. These can be
+used to conduct longitudinal measurements on shopping websites or be re-purposed for use
+on other types of websites (e.g., travel and ticket booking websites).
+• We create a data set and measure the prevalence of dark patterns on 11K shopping websites.
+We make this data set of dark patterns and our automated techniques publicly available2
+to
+help researchers, journalists, and regulators raise awareness of dark patterns [21], and to
+help develop user-facing tools to combat these patterns.
+• We contribute a novel descriptive taxonomy that provides precise terminology to characterize
+how each dark pattern works. This taxonomy can aid researchers and regulators to better
+understand and compare the underlying influence and harmful effects of dark patterns.
+• We document the third-party entities that enable dark patterns on websites. This list of third
+parties can be used by existing tracker and ad-blocking extensions (e.g., Ghostery,3 Adblock
+Plus4
+) to limit their use on websites.
+2 RELATED WORK
+2.1 Online Shopping and Influencing User Behavior
+Starting with Hanson and Kysar, numerous scholars have examined how companies abuse users’
+cognitive limitations and biases for profit, a practice they call market manipulation [50]. For instance,
+studies have shown that users make different decisions from the same information based on how
+it is framed [80, 81], giving readily accessible information greater weight [79], and becoming
+susceptible to impulsively changing their decision the longer the reward from their decision is
+delayed [28]. Some argue that because users are not always capable of acting in their own best
+interests, some forms of ‘paternalism’—a term referring to the regulation or curation of the user’s
+options—may be acceptable [78]. However, determining the kinds of curation that are acceptable is
+less straightforward, particularly without documenting the practices that already exist.
+More recently, Calo has argued that market manipulation is exacerbated by digital marketplaces
+since they posses capabilities that increase the chance of user harm culminating in financial loss,
+loss of privacy, and the ability to make independent decisions [34]. For example, unlike brick-andmortar stores, digital marketplaces can capture and retain user behavior information, design and
+mediate user interaction, and proactively reach out to users. Other studies have suggested that
+certain elements in shopping websites can influence impulse buying behavior [60, 86]. For instance,
+perceived scarcity, social influence (e.g., ‘social proof’—informing users of others’ behavior—and
+shopping with others [33, 61]) can all lead to higher spending. More recently, Moser et al. conducted
+a study [65] to measure the prevalence of elements that encourage impulse buying. They identified
+64 such elements—e.g., product reviews/ratings, discounts, and quick add-to cart buttons—by
+manually scraping 200 shopping websites.
+2.2 Dark Patterns in User Interface Design
+Coined by Brignull in 2010, dark patterns is a catch-all term for how user interface design can
+be used to adversely influence users and their decision-making abilities. Brignull described dark
+patterns as ‘tricks used in websites and apps that make you buy or sign up for things that you
+didn’t mean to’, and he created a taxonomy of dark patterns using examples from shopping and
+travel websites to help raise user awareness. The taxonomy documented patterns such as ‘Bait and
+Switch’ (the user sets out to do one thing, but a different, undesirable thing happens instead), and
+‘Confirmshaming’ (using shame tactics to steer the user into making a choice).
+2.2.1 Dark Pattern Taxonomies. A growing number of studies have expanded on Brignull’s original taxonomy more systematically to advance our understanding of dark patterns. Conti and
+Sobiesk [38] were the first to create a taxonomy of malicious interface design techniques, which
+they defined as interfaces that manipulate, exploit, or attack users. While their taxonomy contains
+no examples and details on how the authors created the taxonomy are limited, it contains several categories that overlap with Brignull’s dark patterns, including ‘Confusion’ (asking the user
+questions or providing information that they do not understand) and ‘Obfuscation’ (hiding desired
+information and interface elements). More recently, Bösch et al. [31] presented a similar, alternative
+breakdown of privacy-specific dark patterns as ‘Dark Strategies’, uncovering new patterns: ‘Forced
+Registration’ (requiring account registration to access some functionality) and ‘Hidden Legalese
+Stipulations’ (hiding malicious information in lengthy terms and conditions). Finally, Gray et
+al. [48] presented a broader categorization of Brignull’s taxonomy and collapsed many patterns into
+categories such as ‘Nagging’ (repeatedly making the same request to the user) and ‘Obstruction’
+(preventing the user from accessing functionality).
+While these taxonomies have focused on the web, researchers have also begun to examine dark
+patterns in specific application domains. For instance, Lewis [57] analyzed design patterns in the
+context of web and mobile applications and games, and codified those patterns that have been
+successful in making apps ‘irresistible’, such as ‘Pay To Skip’ (in-app purchases that skip levels
+of a game). In another instance, Greenberg et al. [49] analyzed dark patterns and ‘antipatterns’—
+interface designs with unintentional side-effects on user behavior—that leverage users’ spatial
+relationship with digital devices. They introduced patterns such as ‘Captive Audience’ (inserting
+unrelated activities such as an advertisement during users’ daily activities) and ‘Attention Grabber’
+(visual effects that compete for users’ attention). Finally, Mathur et al. [63] discovered that most
+affiliate marketing on social media platforms such as YouTube and Pinterest is not disclosed to
+users (the ‘Disguised Ads’ dark pattern).
+2.2.2 Dark Patterns and User Decision-making. A growing body of work has drawn connections
+between dark patterns and various theories of human decision-making in an attempt to explain how
+dark patterns work and cause harm to users. Xiao and Benbasat [84] proposed a theoretical model
+for how users are affected by deceptive marketing practices in online shopping, including affective
+mechanisms (psychological or emotional motivations) and cognitive mechanisms (perceptions
+about a product). In another instance, Bösch et al. [31] used Kahneman’s Dual process theory [79]
+which describes how humans have two modes of thinking—‘System 1’ (unconscious, automatic,
+possibly less rational) and ‘System 2’ (conscious, rational)—and noted how ‘Dark Strategies’ exploit
+users’ System 1 thinking to get them to make a decision desired by the designer. Lastly, Lewis
+[57] linked each of the dark patterns described in his book to Reiss’s Desires, a popular theory
+of psychological motivators [72]. Finally, a recent study by the Norwegian Consumer Council
+(Frobrukerrådet) [46] examined how interface designs on Google, Facebook, and Windows 10 make
+it hard for users to exercise privacy-friendly options. The study highlighted the default options and
+framing statements that enable such dark patterns.
+2.3 Comparison to Prior Work
+Our study differs from prior work in two ways. First, while prior work has largely focused on
+creating taxonomies of the types of dark patterns either based on anecdotal data [31, 32] or data
+collected from users’ submissions [38, 48], we provide large-scale evidence documenting the
+presence and prevalence of dark patterns in the wild. Automated measurements of this kind have
+proven useful in discovering various privacy and security issues on the web—including third-party
+tracking [25, 40] and detecting vulnerabilities of remote third-party JavaScript libraries [68]—by
+documenting how and on which websites these issues manifest, thus enabling practical solutions
+to counter them. Second, we expand on the insight offered by prior work about how dark patterns
+affect users. We develop a comprehensive taxonomy of dark pattern characteristics (Section 3) that
+concretely explains the underlying influence and harmful effects of each dark pattern.
+Finally, while prior work has shed light on impulse buying on shopping websites, the focus of our
+work is on dark patterns. While there is some overlap between certain types of dark patterns and
+impulse buying features of shopping websites [65], the majority of impulse buying elements are
+not dark patterns. For instance, offering returns and exchanges for products, or showing multiple
+images of a product [65] do not constitute dark patterns: even though they play a role in persuading
+users into purchasing products, they do not fundamentally subvert user decision-making in a
+manner that benefits shopping websites and retailers.
+3 A TAXONOMY OF DARK PATTERN CHARACTERISTICS
+Our taxonomy explains how dark patterns affects user decision-making based on their characteristics as well as the cognitive biases in users—deviations from rational behavior justified by
+some ‘biased’ line of reasoning [51]—they exploit to their advantage. We ground this taxonomy
+in the literature on online manipulation [34, 77, 83] and by studying the types of dark patterns
+highlighted in previous work [32, 48]. Our taxonomy consists of the following five dimensions:
+• Asymmetric: Does the user interface design impose unequal weights or burdens on the
+available choices presented to the user in the interface?5 For instance, a website may present
+a prominent button to accept cookies on the web but make the opt-out button less visible, or
+even hide it in another page.
+• Covert: Is the effect of the user interface design choice hidden from users? That is, does the
+interface design to steer users into making specific purchases without their knowledge? For
+instance, a website may leverage the decoy effect [52] cognitive bias, in which an additional
+choice—the decoy—is introduced to make certain other choices seem more appealing. Users
+may fail to recognize the decoy’s presence is merely to influence their decision making,
+making its effect covert.
+• Deceptive: Does the user interface design induce false beliefs either through affirmative
+misstatements, misleading statements, or omissions? For instance, a website may offer a
+discount to users that appears to be limited-time, but actually repeats when the user refreshes
+the website’s page. Users may be aware that the website is trying to offer them a discount;
+however, they may not realize that they do not have a limited time to take advantage of the
+deal. This false belief affects users’ decision-making i.e., they may act differently if they knew
+that the sale is recurring.
+
+• Hides Information: Does the user interface obscure or delay the presentation of necessary
+information to the user? For instance, a website may not disclose additional charges for a
+product to the user until the very end of their checkout.
+• Restrictive: Does the user interface restrict the set of choices available to users? For instance,
+a website may only allow users to sign up for an account with existing social media accounts
+so they can gather more information about them.
+Many types of dark patterns operate by exploiting cognitive biases in users. In Section 5, we
+draw an explicit connection between each type of dark pattern we encounter and the cognitive
+biases it exploits. The biases we refer to in our findings are:
+(1) Anchoring Effect [79]: The tendency of individuals to overly rely on an initial piece of
+information—the ‘anchor’—in future decisions.
+(2) Bandwagon Effect [75]: The tendency of individuals to value something more because others
+seem to value it.
+(3) Default Effect [54]: The tendency of individuals to stick with options that are assigned to
+them by default due to inertia.
+(4) Framing Effect [80]: The tendency of individuals to reach different decisions from the same
+information depending on how it is presented.
+(5) Scarcity Bias [64]: The tendency of individuals to place a higher value on things that are
+scarce.
+(6) Sunk Cost Fallacy [29]: The tendency of individuals to continue an action if they have invested
+resources into it, even if that action might make them worse off.
+4 METHOD
+Dark patterns may manifest in several different locations inside websites, and they can rely heavily
+upon interface manipulation, such as changing the hierarchy of interface elements or prioritizing
+certain options over others using different colors. However, many dark patterns are often present
+on users’ primary interaction paths in an online service or website (e.g., when purchasing a product
+on a shopping website, or when a game is paused after a level is completed). Further, multiple
+instances of a type of dark pattern share common traits such as the text they display (e.g., in the
+‘Confirmshaming’ dark pattern—which tries to shame the user into making a particular choice—
+many messages begin with No thanks). Our technique relies on automating the primary interaction
+path of websites, extracting textual interface elements present in this path, and finally, grouping
+and organizing these—using clustering—for an expert analyst to sift through.
+While our method generalizes to different types of websites, we focus on shopping websites in
+this study. We designed a web crawler capable of navigating users’ primary interaction path on
+shopping websites: making a product purchase. Our crawler aligned closely with how an ordinary
+user would browse and make purchases on shopping websites: discover pages containing products
+on a website, add these products to the cart, and check out. We describe these steps, and the data
+we collected during each visit to a website below. Figure 1 illustrates an overview of our method.
+We note that only analyzing textual information in this manner restricts the set of dark patterns
+we can discover, making our findings a lower bound on the dark patterns employed by shopping
+websites. We leave detecting other kinds of dark patterns—those that are enabled using style, color,
+and other non-textual features—to future work, and we discuss possible approaches in Section 6.
+4.1 Creating a Corpus of Shopping Websites
+We used the following criteria to evaluate existing lists of popular shopping websites, and, eventually,
+construct our own: (1) the list must be representative of the most popular shopping websites globally,
+and (2) the list must consist of shopping websites in English so that we would have the means to
+analyze the data collected from the websites.
+We retrieved a list of popular websites worldwide from Alexa using the Top Sites API [9]. Alexa
+is a web traffic analysis company that ranks and categorizes websites based on statistics it collects
+from users of its toolbar. We used the Top Sites list because it is more stable and is based on monthly
+traffic and not daily rank, which fluctuates often [73] The list contained 361,102 websites in total,
+ordered by popularity rank.6
+We evaluated two website classification services to extract shopping websites from this list of the
+most popular websites: Alexa Web Information Service [10] and WebShrinker [23]. We evaluated
+the classification accuracy of these services using a random sample of 500 websites from our list
+of 361K websites, which we manually labeled as ‘shopping’ or ‘not shopping’. We considered a
+website to be a shopping website if it was offering a product for purchase. Of the 500 websites in our
+sample, we labeled 57 as ‘shopping’ and 443 as ‘not shopping’. We then evaluated the performance
+of both classifiers against this ground truth.
+Table 3 in the Appendix summarizes the classifiers’ results. Compared to Webshrinker, Alexa’s
+classifications performed poorly on our sample of websites (classification accuracy: 89% vs. 94%),
+with a strikingly high false negative rate (93% vs. 18%). Although Webshrinker had a slightly higher
+false positive rate (0.2% vs. 0.4%), we used methods to determine and remove these false positives
+as we describe in Section 4.2.1.
+We subsequently used Webshrinker to classify our list of 361K websites, obtaining a list of 46,569
+shopping websites. To filter out non-English websites, we downloaded home pages of each site using
+Selenium [8] and ran language detection on texts extracted from the pages using the polyglot
+Python library [4]. Our final data set contained 19,455 English language shopping websites. We
+created this filtered list in August 2018.
+4.2 Data Collection with a Website Crawl
+We conducted all our crawls from the Princeton University campus using two off-the-shelf computers, both equipped with 16G of memory and quad-core CPUs. Our crawler’s exploration of
+each shopping website mimicked a typical user’s primary interaction path on a shopping website—
+starting with one of its product pages. Therefore, the first step in our website crawl was to determine
+ways to automatically identify product URLs from shopping websites.
+4.2.1 Discovering Product URLs on Shopping Websites. To effectively extract product URLs from
+shopping websites, we iteratively designed and built a Selenium-based web crawler that contained
+a classifier capable of distinguishing product URLs from non-product URLs.
+At first, we build a naïve depth-first crawler that, upon visiting a website’s home page, determined
+the various URLs on the page, selected one URL at random, and then repeated this process from the
+selected URL. Using this crawler, we assembled a data set of several thousand URLs from visiting a
+random sample of 100 websites from our data set of 19K shopping websites. We manually labeled a
+sample of these URLs either as ‘product’ or ‘non-product’ URLs, and created a balanced data set
+containing 714 labeled URLs in total.
+We trained a Logistic Regression classifier on this data set of labeled URLs using the SGDClassifier
+class from scikit-learn [71]. We extracted several relevant features from this data set of URLs, including the length of a URL, the length of its path, the number of forward slashes and hyphens in
+6We did not use Alexa’s list of Top/Shopping websites [22] because of two issues. First, its criteria of categorization are not
+fully disclosed. Second, most of the websites in the list had an average monthly rank > 500,000, which we did not consider
+to be representative of the most popular websites worldwide.
+its path, and whether its path contained the words ‘product’ or ‘category’. We used 90% of the URLs
+for training and obtained an 83% average classification accuracy using five-fold cross validation.
+We embedded this classifier into our original Selenium-based web crawler to help guide its crawl.
+As a result, rather than selecting and visiting URLs at random, the crawler first used the classifier
+to rank the URLs on a page by likelihood of being product URLs, and then visited the URL with the
+highest likelihood. The crawler declared a URL as product if its page contained an ‘Add to cart’ or
+similar button. We detected this button by assigning a weighted score to visible HTML elements
+on a page based on their size, color, and whether they matched certain regular expressions (e.g.,
+‘Add to bag|cart|tote|. . .’). This check also helped us weed out any false positives that may have
+resulted from the classification of shopping websites using Webshrinker (Section 4.1).
+We tuned the crawler’s search process to keep its crawl tractable. The crawler returned to the
+home page after flagging a product URL. It did not visit a given URL more than two times to avoid
+exploring the same URLs, and it stopped after visiting 100 URLs or spending 15 minutes on a site.
+We determined these termination limits by running test crawls on random samples of shopping
+websites. Finally, we opted to extract no more than five product pages from each shopping website.
+To evaluate our crawler’s performance, we randomly sampled 100 shopping websites from our
+corpus of 19K shopping websites and examined the product URLs the crawler returned for each
+of these websites. For 86 of those 100 websites, our crawler successfully extracted and returned
+legitimate product pages where they were present, and it returned no product pages where there
+were not any. For the remaining 14 websites, the crawler either timed out because the website was
+no longer reachable, the website included a step that the crawler could not handle (e.g., the website
+required selecting a country of origin), or the ‘Add to cart’ button was incorrectly detected. We
+then used the crawler on all of the 19K shopping websites, and in total we gathered 53,180 product
+pages from 11,286 shopping websites.
+4.2.2 Simulating Product Purchase Flows. To simulate a user’s typical shopping flow—which included selecting certain product options (e.g., size or color), adding the product to the cart, viewing
+the cart, and checking out—we designed and built an interactive ‘checkout crawler’.
+We based our checkout crawler on OpenWPM, a fully instrumented browser platform that is
+designed to conduct large-scale privacy and web-tracking measurement studies [40]. We extended
+OpenWPM in a number of ways to interact with the product pages we collected previously, including
+identifying various interface elements using scoring functions similar to the ones we described in
+Section 4.2. Each of these functions would output the most likely ‘Add to cart’ buttons, ‘View cart’
+buttons, and ‘Checkout’ buttons, which the crawler would click in–order across multiple pages.
+Because websites do not follow uniform HTML markup and design, our crawler needed to account
+for a variety of design alternatives and edge cases to simulate user interaction, such as dismissing
+popup dialogs, and identifying and interacting with product options (e.g., selecting a size and color
+for a t-shirt) to add a product to cart.
+We collected three types of data during this crawl for each product page. First, we saved the page
+source on visit. Second, we took screenshots each time the state of the page changed (e.g., clicking
+a button or selecting a product option). Third, we extended OpenWPM’s HTTP instrumentation
+to store HTTP Archive (HAR) [13]) files for each crawled page since HAR files are not limited to
+HTTP headers and contain full response contents that can be used for further analysis.
+To evaluate our crawler’s performance, we randomly sampled 100 product pages from the crawl
+in Section 4.2.1 and examined whether our crawler was able to simulate a user’s shopping flow. In
+66 of the 100 pages, our crawler reached the checkout page successfully. In 14 of the remaining 34,
+the crawler was able to add the product to cart but it was unable to proceed to the cart page; most
+often this was the result of complex product interaction (e.g., selecting the dimensions of a rug),
+which our crawler was not designed to perform. In the remaining 20 cases, either we produced
+Selenium exceptions, or failed to discover cart and checkout buttons. We then used the crawler
+on all of the 53K product pages. We divided the 53K product URLs into two equal-length lists to
+reduce the total crawling time. These crawls took approximately 90 hours to complete.
+4.2.3 Capturing Meaningful Text Using Page Segmentation. The checkout crawler divided all the
+pages it visited into meaningful page segments to help discover dark patterns. These segments can
+be thought of as ‘building blocks’ of web pages, representing meaningful smaller sections of a web
+page. These formed the basic units for our data analysis and clustering.
+We defined segments as visible HTML elements that contained no other block-level elements [6]
+and contained at least one text element—that is, elements of type TEXT_NODE [19]. However, since
+websites may use a virtually endless variety of markup and designs, we iteratively developed our
+segmentation algorithm, testing it on samples of shopping websites and accounting for possible
+edge cases. Algorithm 1 and Figure 11 in the Appendix detail the segmentation algorithm and
+illustrate its output for one web page, respectively.
+Before segmenting each web page, the crawler waited for the page to load completely, also
+accounting for the time needed for popup dialogs to appear. However, web pages may also display
+text from subsequent user interactions, and with dynamically loaded content (e.g., a countdown
+timer). To capture possible segments from such updates to the web page during a crawl—no matter
+how minor or transient—we integrated the Mutation Summary [3] library into our checkout crawler.
+The Mutation Summary library combines DOM MutationObserver events [18] into compound
+event summaries that are easy to process. When the checkout crawler received a new Mutation
+Summary representing updates to the page, it segmented (Algorithm 1) this summary and stored
+the resulting segments.
+For each segment, we stored its HTML Element type, its element text (via innerText), its
+dimensions and coordinates on the page, and its style including its text and background colors. Our
+crawls resulted in ∼13 million segments across the 53K product URL pages.
+4.3 Data Analysis with Clustering
+We employed hierarchical clustering to discover dark patterns from the data set of segments. Our
+use of clustering was not to discover a set of latent constructs in the data but rather to organize the
+segments in a manner that would be conducive to scanning, making it easier for an expert analyst
+to sift through the clusters for possible dark patterns.
+4.3.1 Data Preprocessing. Many of the ∼13 million segments collected during our crawls were
+duplicates, such as multiple ‘Add to cart’ segments across multiple websites. Since we only used
+text-based features for our analyses, we retained unique pieces of text across the websites in our
+data set (e.g., one segment containing the text ‘Add to cart’ across all the websites in our data set).
+We also replaced all numbers with a placeholder before performing this process to further reduce
+duplicates. This preprocessing reduced the set of segments by 90% to ∼1.3 million segments.
+4.3.2 Feature Representations and Hierarchical Clustering. Before performing clustering, we transformed the text segments into a Bag of Words (BoW) representation. Each entry in the resulting
+BoW matrix (Mij) indicated the number of times token j appeared in segment i.
+7 We filtered all stop
+words8
+and punctuation—except currency symbols, since these are indicative of product price—from
+the list of tokens, and further only retained tokens that appeared in at least 100 segments. This
+resulted in a vocabulary of 10,133 tokens.
+Given this large size of our vocabulary—and thus the dimensions of the segment-token matrix—
+we performed Principal Component Analysis (PCA) on the BoW matrix. We retained 3 components
+from the PCA, which together captured more than 95% of the variance in the data.
+We used the Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) algorithm [35] implemented in the HDBSCAN Python library [14] to extract clusters from
+this data. We chose HDBSCAN over other clustering algorithms since it is robust to noise in the
+data, and it allows us to vary the minimum size of the clusters (min_cluster_size). We varied a
+total of four passes at clustering: two min_cluster_size values (5 and 10) × two distance metrics
+(Manhattan distance or L1 norm, and Euclidean distance or L2 norm). We picked sufficiently small
+values for the min_cluster_size parameter to keep the size of the noise cluster small and to avoid
+coercing segments into one cluster.
+The clustering output across the BoW input was nearly the same. As expected, a min_cluster_size
+of 10 resulted in a larger noise cluster compared to a min_cluster_size of 5—but only marginally
+larger regardless of the distance metric. However, since the min_cluster_size of 10 produced
+significantly fewer clusters, we picked its output over the others. It contained 10,277 clusters.
+4.3.3 Examining and Analyzing the Clusters. Once the clustering was complete, we made two
+passes through the data. The goal of pass one was to include clusters that contained any segments
+that might manifest as dark patterns. In this pass, one researcher scanned the clusters and identified
+possible clusters of interest, recording all those clusters that represented specific types of user
+interfaces (e.g., login choices, cart totals), website characteristics (e.g., stock notifications), and
+product options (e.g., small/medium/large) that generally appear on shopping websites. This step
+filtered down the clusters from 10,277 to 1,768.
+In pass two, we extracted all the websites that corresponded to these segments for further
+examination. The research team used the literature on dark patterns [32, 48, 69] and impulse
+buying [65], and media coverage of high-pressure sales and marketing tactics (e.g., [15]) to create a
+shared understanding of possible dark patterns using the examples cited in these works to guide
+our thinking. In order to validate the coding of clusters, two researchers examined a sample of
+200 of the 1,768 clusters, and recorded any dark patterns they encountered. The researchers also
+examined each website’s set of screenshots and visited the websites to gain context and additional
+information surrounding the segments (e.g., discovering practices associated with the flagged
+pattern). To measure agreement between the researchers, we computed Cohen’s kappa between
+the segments that were recorded—resulting in a score of 0.74. The team discussed and resolved
+all disagreements, and one researcher then examined the remaining clusters in the same manner.
+The team then discussed the resulting dark patterns, and iteratively grouped them into types and
+broader categories.
+4.4 Detecting Deceptive Dark Patterns
+We further examined many of the dynamic dark patterns—those patterns that displayed transient
+values (e.g., a countdown timer)—for deceptive practices. To this end, we used our checkout crawler
+to ‘monitor’ the websites containing dark patterns of interest once every four hours for a period of
+five days. We combined this data with several dark pattern-specific heuristics—which we describe
+in the following sections—to uncover instances of deceptive practices.
+5 FINDINGS
+In total, we discovered 1,818 instances of dark patterns from 1,254 (∼11.1%) websites in our data
+set of 11K shopping websites. Given that (1) our crawler only explored the product pages, cart
+pages, and checkout pages of websites, (2) our analyses only took text-based user interfaces into
+Table 1. Categories and types of dark patterns along with their description, prevalence, and definitions.
+Category Type Description
+# Instances
+# Websites
+Asymmetric?
+Covert?
+Deceptive?
+Hides Info?
+Restrictive?
+Cognitive
+Biases
+Sneaking Sneak into Basket Adding additional products to users’ shopping carts without their consent
+7 7 # # G# # Default
+Effect
+Hidden Costs Revealing previously undisclosed charges
+to users right before they make a purchase
+5 5 # # G# # Sunk
+Cost
+Fallacy
+Hidden Subscription Charging users a recurring fee under the
+pretense of a one-time fee or a free trial
+14 13 # # G# # None
+Urgency Countdown Timer Indicating to users that a deal or discount
+will expire using a counting-down timer
+393 361 # G# G# # # Scarcity
+Bias
+Limited-time Message Indicating to users that a deal or sale will
+expire will expire soon without specifying
+a deadline
+88 84 # G# # # Scarcity
+Bias
+Misdirection Confirmshaming Using language and emotion (shame) to
+steer users away from making a certain
+choice
+169 164 # # # # Framing
+Effect
+Visual Interference Using style and visual presentation to steer
+users to or away from certain choices
+25 24 G# G# # # Anchoring
+& Framing Effect
+Trick Questions Using confusing language to steer users
+into making certain choices
+9 9 # # # Default &
+Framing
+Effect
+Pressured Selling Pre-selecting more expensive variations of
+a product, or pressuring the user to accept
+the more expensive variations of a product
+and related products
+67 62 G# G# # # # Anchoring
+& Default
+Effect,
+Scarcity
+Bias
+Social Proof Activity Message Informing the user about the activity on
+the website (e.g., purchases, views, visits)
+313 264 # G# G# # # Bandwagon
+Effect
+Testimonials Testimonials on a product page whose origin is unclear
+12 12 # # G# # # Bandwagon
+Effect
+Scarcity Low-stock Message Indicating to users that limited quantities
+of a product are available, increasing its desirability
+632 581 # G# G# G# # Scarcity
+Bias
+High-demand Message Indicating to users that a product is in highdemand and likely to sell out soon, increasing its desirability
+47 43 # G# # # # Scarcity
+Bias
+Obstruction Hard to Cancel Making it easy for the user to sign up for a
+service but hard to cancel it
+31 31 # # # G# None
+Forced
+Action
+Forced Enrollment Coercing users to create accounts or share
+their information to complete their tasks
+6 6 # # # None
+account, this number represents a lower-bound estimate of the prevalence of dark patterns. We
+divide our discussion of the findings by first illustrating the categories of dark patterns revealed by
+our analyses, and then by describing our findings on the ecosystem of third-parties that enable
+dark patterns.
+5.1 Categories of Dark Patterns
+Our analyses revealed 15 types of dark patterns contained in 7 broader categories. Where applicable,
+we use the dark pattern labels proposed by Gray et al. [48] and Brignull [32] to describe these types
+and categories. Table 1 summarizes our findings, highlighting the number of separate instances of
+dark patterns found for each type.
+Figure 2 shows the distribution of the websites containing dark patterns over their Alexa ranks.
+The distribution suggests that dark patterns are more likely to appear on popular websites (Spearman’s Rho = -0.62, p < 0.0001). In the following sections, we describe the various categories and
+types of dark patterns we discovered.
+5.1.1 Sneaking. Coined by Gray et al. in their taxonomy [48], ‘Sneaking’ refers to the category of
+dark patterns that attempt to misrepresent user actions, or hide/delay information that, if made
+available to users, they would likely object to. We observed three types of the Sneaking dark
+pattern: Sneak into Basket [32], Hidden Costs [32], and Hidden Subscription (Brignull’s Forced
+Continuity [32]) on 23 shopping websites. Figure 3 highlights instances of these three types.
+Sneak into Basket. The ‘Sneak into Basket’ dark pattern adds additional products to users’
+shopping carts without their consent, often promoting the added products as ‘bonuses’ and ‘necessary’. Sneak into Basket exploits the default effect cognitive bias in users, with the website behind
+it hoping that users will stick with the products it adds to cart. One instance of Sneak into Basket is
+shown in Figure 3a, where adding a bouquet of flowers to the shopping cart on avasflowers.net
+also adds a greeting card. In another instance on laptopoutlet.co.uk —not shown in the figure—
+adding an electronic product, such as a laptop, to the shopping cart also adds product insurance.
+Other websites, such as cellularoutfitter.com, add additional products (e.g., a USB charger) to
+the shopping cart using pre-selected checkboxes. While such checkboxes could be deselected by a
+vigilant user, the additional products would be added by default in the absence of any intervention.
+In our data set, we found a total of 7 instances of the Sneak into Basket dark pattern.
+Using our taxonomy of dark pattern characteristics, we classify Sneak into Basket as at least
+partially deceptive (it incorrectly represents the nature of the action of adding an item to the
+shopping cart) and information hiding (it deliberately disguises how the additional products were
+added to cart from users) in nature. However, it is not covert: users can visibly see and realize that
+the website included additional products to their shopping carts.
+Hidden Costs. The ‘Hidden Costs’ dark pattern reveals new, additional, and often unusually high
+charges to users just before they are about to complete a purchase. Examples of such charges include
+‘service fees’ or ‘handling costs’. Often these charges are only revealed at the end of a checkout
+process, after the user has already filled out shipping/billing information, and consented to terms of
+use. The Hidden Costs dark pattern exploits the sunk cost fallacy cognitive bias: users are likely to
+feel so invested in the process that they justify the additional charges by completing the purchase to
+not waste their effort. Figure 3b shows the Hidden Costs dark pattern on proflowers.com, where
+the ‘Care & Handling’ charge of $2.99 is revealed immediately before confirming the order. In our
+data set, we found a total of 5 instances of the Hidden Costs dark pattern.
+Using our taxonomy of dark pattern characteristics, we classify Hidden Costs as at least partially
+deceptive (it relies on minimizing and delaying information from users), and thus also information
+hiding in nature. Like Sneak into Basket, Hidden Costs is not covert: users can visibly see and realize
+that the website included additional charges.
+Hidden Subscription. The ‘Hidden Subscription’ dark pattern charges users a recurring fee
+under the pretense of a one-time fee or a free trial. Often, if at all, users become aware of the
+recurring fee once they are charged several days or months after their purchase. For instance, we
+discovered that wsjwine.com offers users an Advantage service which appears to be a one-time
+payment of $89 but renews annually, as shown in Figure 3c. Further, Hidden Subscription often
+appears with the ‘Hard to Cancel’ dark pattern—which we describe in Section 5.1.6—thereby making
+the recurring charges harder to cancel than signing up for them. In our data set, we found a total of
+14 instances of Hidden Subscription dark pattern.
+Using our taxonomy of dark pattern characteristics, we classify Hidden Subscription as at least
+partially deceptive (it misleads users about the nature of the initial offer) and information hiding (it
+withholds information about the recurring fees from users) in nature.
+5.1.2 Urgency. ‘Urgency’ refers to the category of dark patterns that impose a deadline on a sale
+or deal, thereby accelerating user decision-making and purchases [27, 37, 53, 69]. Urgency dark
+patterns exploit the scarcity bias in users—making discounts and offers more desirable than they
+would otherwise be, and signaling that inaction would result in losing out on potential savings.
+These dark patterns create a potent ‘fear of missing out’ effect particularly when combined with
+the Social Proof (Section 5.1.4) and Scarcity (Section 5.1.5) dark patterns.
+We observed two types of the Urgency dark pattern: Countdown Timers and Limited-time
+Messages on 437 shopping websites across their product, cart, and checkout pages. In product
+pages, these indicated deadlines about site-wide sales and coupons, sales on specific products, or
+shipping deadlines; in cart pages, they indicated deadlines about product reservation (e.g., ‘Your
+cart will expire in 10:00 minutes, please check out now’) and coupons, urging users to complete
+their purchase. Figure 4 highlights instances of these two types.
+(a) Countdown Timer on mattressfirm.com. The header displays a Flash Sale where the majority of
+discounted products remain the same on a day-to-day basis.
+(b) Countdown Timer on justfab.com. The offer
+is available even after the timer expires.
+(c) Limited-time Message on chicwish.com. The website
+claims the sale will end ‘soon’ without stating a deadline.
+Fig. 4. Two types of the Urgency category of dark patterns.
+Countdown Timers. The ‘Countdown Timer’ dark pattern is a dynamic indicator of a deadline,
+counting down until the deadline expires. Figures 4a and 4b show the Countdown Timer dark
+pattern on mattressfirm.com and justfab.com, respectively. One indicates the deadline for a
+recurring Flash Sale, the other a Member Exclusive. In our data set, we found a total of 393 instances
+of the Countdown Timer dark pattern.
+Deceptive Countdown Timers. Using the visit-and-record method described in Section 4.4, we
+examined the countdown timers in our data set for deceptive practices. We stitched the screenshots
+of each countdown timer from the repeated visits of our crawler to a website into a video, and
+viewed the resulting videos to observe the behavior of the timers. We considered a countdown
+timer deceptive if (1) the timer reset after timeout with the same offer still valid, or (2) the timer
+expired but the offer it claimed was expiring was still valid even following expiration.
+In our data set, we discovered a total of 157 instances of deceptive Countdown Timers on 140
+shopping websites. One such example is shown in Figure 4b on justfab.com, where the advertised
+offer remains valid even after the countdown timer of 60 minutes expires.
+Using our taxonomy of dark pattern characteristics, we classify Countdown Timers as partially
+covert (it creates a heightened sense of immediacy, unbeknownst to at least some users), and
+sometimes deceptive (it can mislead users into believing an offer is expiring when in reality it is
+not) in nature.
+Limited-time Messages. Unlike Countdown Timers, the ‘Limited-time Message’ dark pattern is
+a static urgency message without an accompanying deadline. By not stating the deadline, websites
+withhold information from users, and thus misrepresent the nature of the offer [20]. Figure 4c shows
+an instance of the Limited-time Message dark pattern on chicwish.com, where the advertised sale
+is stated to end ‘soon’ with no mention of the end date. For every such instance we discovered, we
+verified that the shopping website made no disclosure about the accompanying deadline (e.g., in
+(a) Confirmshaming on radioshack.com.
+The option to dismiss the popup is framed
+to shame the user into avoiding it.
+(b) Visual Interference on greenfingers.com. The option to opt
+out of marketing communication is grayed, making it seem unavailable even though it can be clicked.
+(c) Trick Questions on newbalance.co.uk. Opting out of marketing
+communication requires ticking the checkbox.
+(d) Pressured Selling on
+1800flowers.com. The most
+expensive product is the default.
+Fig. 5. Four types of the Misdirection category of dark patterns.
+the fine print and in the terms of sale pages). In our data set, we discovered a total of 88 instances
+of the Limited-time Message dark pattern.
+Using our taxonomy of dark pattern characteristics, we classify Limited-time Messages as at
+least partially covert (similar to Countdown Timers), and information hiding (unlike Countdown
+Timers, they do not reveal the deadline in their offers) in nature.
+5.1.3 Misdirection. The ‘Misdirection’ category of dark patterns uses visuals, language, and emotion to steer users toward or away from making a particular choice. Misdirection functions by
+exploiting different affective mechanisms and cognitive biases in users without actually restricting
+the set of choices available to users. Our version of the Misdirection dark pattern is inspired by
+Brignull’s original Misdirection dark pattern [32]. However, while Brignull considered Misdirection
+to occur exclusively using stylistic and visual manipulation, we take a broader view of the term,
+also including Misdirection caused by language and emotional manipulation.
+We observed four types of the Misdirection dark pattern: Confirmshaming [32], Trick Questions [32], Visual Interference [48], and Pressured Selling on 244 shopping websites. Figure 5
+highlights instances of these four types.
+Confirmshaming. Coined by Brignull [32], the ‘Confirmshaming’ dark pattern uses language
+and emotion to steer users away from making a certain choice. Confirmshaming appeared most
+often in popup dialogs that solicited users’ email addresses in exchange for a discount, where
+the option to decline the offer—which the website did not want users to select—was framed as a
+shameful choice. Examples of such framing included ‘No thanks, I like paying full price’, ‘No thanks,
+I hate saving money’, and ‘No thanks, I hate fun & games’. By framing the negative option as such,
+the Confirmshaming dark pattern exploits the framing effect cognitive bias in users and shame, a
+powerful behavior change agent [58]. Figure 5a shows one instance of the Confirmshaming dark
+pattern on radioshack.com. In our data set, we found a total of 169 such instances.
+Using our taxonomy of dark pattern characteristics, we classify Confirmshaming as asymmetric
+(the opt-out choice shames users into avoiding it) in nature. However, Confirmshaming is not covert,
+since users can visibly see and realize that the design is attempting to influence their choice.
+Visual Interference. The ‘Visual Interference’ dark pattern uses style and visual presentation
+to influence users into making certain choices over others (Brignull’s original description of
+Misdirection [32]). Although we excluded style information in our clustering analysis, we extracted
+these patterns as a consequence of examining the text the patterns displayed. In some instances,
+websites used the Visual Interference dark pattern to make certain courses of action more prominent
+over others. For example, the subscription offering on exposedskincare.com is stylistically more
+prominent and emphasized than the non-subscription offering. In other instances, websites used
+visual effects on textual descriptions to inflate the discounts available for products. For example,
+websites such as dyson.co.uk and justfab.com offered free gifts to users, and then used these
+gifts to inflate the savings on users’ purchases in the checkout page—even when the originally
+selected product was not on discount. In one instance on greenfingers.com, we discovered that
+the option to decline marketing communication is greyed out, creating an illusion that the option
+is unavailable or disabled even though it can be clicked, as shown in Figure 5b. In our data set, we
+found a total of 25 instances of the Visual Interference dark pattern.
+Using our taxonomy of dark pattern characteristics, we classify Visual Interference as sometimes
+asymmetric (in some instances it creates unequal choices, steering users into one choice over the
+other), covert (users may not realize the effect the visual presentation has had on their choice), and
+sometimes deceptive (e.g., when a website presents users with a ‘lucky draw’ from a list of potential
+deals, but the draw process is deterministic unbeknownst to users) in nature.
+Trick Questions. Also originating from Brignull’s taxonomy [32], the ‘Trick Questions’ dark
+pattern uses confusing language to steer users into making certain choices. Like Confirmshaming,
+Trick Questions attempt to overcome users’ propensity to opt out of marketing and promotional
+messages by subtly inverting the entire opt-out process. Most often, websites achieved this effect
+by introducing confusing double negatives (e.g., ‘Uncheck the box if you prefer not to receive email
+updates’), or by using negatives to alter expected courses of action, such as checking a box to opt
+out (e.g., ‘We would like to send you emails. If you do not wish to be contacted via email, please
+ensure that the box is not checked’).
+We note here that we only considered an opt-out choice as a Trick Question dark pattern when
+it was misleading, such as when the user has to check a box and the text began with an affirmative
+statement about the undesirable practice (e.g., ‘We want to send you marketing email...’) since these
+would more likely be missed by users as opposed to ones that began with the opt-out choice (e.g.,
+‘Please tick here to opt-out of...’).9 Trick Questions exploits the default and framing effect cognitive
+biases in users, who become more susceptible to a choice they erroneously believe is aligned with
+their preferences. Figure 5c shows one instance of Trick Questions on newbalance.co.uk. In our
+data set, we found a total of 9 such instances, occurring most often during the checkout process
+when collecting user information to complete purchases.
+Using our taxonomy of dark pattern characteristics, we classify Trick Questions as asymmetric
+(opting out is more burdensome than opting in) and covert (users fail to understand the effect of
+their choice as a consequence of the confusing language) in nature.
+9We note that while Gray et al. [48] consider the latter as Trick Questions, we do not take that stance. However, we do
+consider all opt-out messages as concerning. We discovered 23 instances of opt-out choices that did not begin with an
+affirmative statement in total.
+Pressured Selling. The ‘Pressured Selling’ dark pattern refers to defaults or often high-pressure
+tactics that steer users into purchasing a more expensive version of a product (upselling) or into
+purchasing related products (cross-selling). The Pressured Selling dark pattern exploits a variety of
+different cognitive biases, such as the default effect, the anchoring effect, and the scarcity bias to
+drive user purchasing behavior. Figure 5d shows one such instance on 1800flowers.com, where
+the largest flower bouquet is selected by default. The dark pattern makes the most expensive option
+the point of comparison—an ‘anchor’—and thus increases the probability of users overlooking
+the least expensive option [70]. In another instance, on fashionworld.co.uk, the website opened
+popup dialogs that the user had to explicitly decline immediately after adding a product to cart.
+These dialogs urged users to buy more ‘Hot sellers’, ‘Deals’, and ‘Bundled’ products. In our data set,
+we found a total of 67 instances of the Pressured Selling dark pattern.
+Using our taxonomy of dark pattern characteristics, we classify Pressured Selling as sometimes
+asymmetric (it pushes users towards accepting more expensive product options) and at least partially
+covert (users fail to realize that they have purchased a more expensive product than they would
+have, had they been defaulted with the least expensive product to begin with) in nature.
+5.1.4 Social Proof. According to the social proof principle, individuals determine the correct
+action and behavior for themselves in a given situation by examining the action and behavior of
+others [37, 69]. The ‘Social Proof’ dark pattern uses this influence to accelerate user decision-making
+and purchases, exploiting the bandwagon effect cognitive bias to its advantage. Studies have shown
+that individuals are more likely to impulse buy when shopping with their peers and families [61].
+We observed two types of the Social Proof dark pattern: Activity Notifications and Testimonials
+of Uncertain Origin on 275 websites across their product and cart pages. In all these instances, the
+Social Proof messages indicated other users’ activities and experiences shopping for products and
+items. Figure 6 highlights instances of these two types.
+Activity Notifications. The ‘Activity Notification’ dark pattern is a transient, often recurring
+and attention grabbing message that appears on product pages indicating the activity of other
+users. These can be grouped into different categories: dynamic and periodic messages that indicated
+other users just bought a product (e.g., ‘Abigail from Michigan just bought a new stereo system’);
+static or dynamic text to indicate how many users have a specific item in their cart (e.g., ‘35 people
+added this item to cart’); and similar text to indicate how many users have viewed a product (e.g.,
+‘90 people have viewed this product’). Figures 6a, 6b, and 6c highlight three instances of Activity
+Notification on tkmaxx.com, thredup.com, and jcpenney.com, respectively. In our data set, we
+found a total of 313 such instances.
+Deceptive Activity Notifications. We examined the Activity Notification messages in our data set
+for deceptive practices. To facilitate our analysis, we manually inspected the page source of each
+shopping website that displayed these notifications to verify their integrity. We ignored all those
+notifications that were generated server-side since we had limited insight into how and whether
+they were truly deceptive. We considered an instance of Activity Notification to be deceptive if the
+content it displayed—including any names, locations statistics, counts—was falsely generated or
+made misleading statements.
+In our data set, we discovered a total of 29 instances of deceptive Activity Notifications on 20
+shopping websites. The majority of these websites generated their deceptive notifications in a
+random fashion (e.g., using a random number generator to indicate the number of users who are
+‘currently viewing’ a product) and others hard-coded previously generated notifications, meaning
+they never changed. One notable case was thredup.com as shown in Figure 6b, where the website
+(a) Activity Notification on tkmaxx.com. The message indicates how many people added the product to the cart in
+the last 72 hours.
+(b) Activity Notification on thredup.com. The
+message always signals products as if they
+were sold recently (‘just saved’), even in the
+case of old purchases.
+(c) Activity Notification on jcpenney.com. The
+message indicates the number of people who
+viewed the product in the 24 hours along with
+the quantity left in stock.
+(d) Testimonials of Uncertain Origin on
+coolhockey.com. We found the same testimonials on ealerjerseys.com with different customer names.
+Fig. 6. Two types of the Social Proof category of dark patterns.
+generated messages based on fictitious names and locations for an unvarying list of products that
+was always indicated to be ‘just sold’.
+Using our taxonomy of dark pattern characteristics, we classify Activity Notifications as partially
+covert (in instances where the notifications are site-wide for example, users may fail to understand
+their effect on their choices) and sometimes deceptive (the content of notifications can be deceptively
+generated or misleading) in nature.
+Testimonials of Uncertain Origin. The ‘Testimonials of Uncertain Origin’ dark pattern refers
+to the use of customer testimonials whose origin or how they were sourced and created is not
+clearly specified. For each instance of this dark pattern, we made two attempts to validate its origin.
+First, we inspected the website to check if it contained a form to submit testimonials. Second, we
+performed exact searches of the testimonials on a search engine (google.com) to check if they
+appeared on other websites. Figure 6d shows one instance on coolhockey.com, where we found
+the same set of testimonials on ealerjerseys.com with different customer names attached to
+them. In our data set, we found a total of 12 instances of this pattern.
+5.1.5 Scarcity. ‘Scarcity’ refers to the category of dark patterns that signal the limited availability
+or high demand of a product, thus increasing its perceived value and desirability [37, 55, 62, 69]. We
+observed two types of the Scarcity dark pattern: ‘Low-stock Messages’ and ‘High-demand Messages’
+on 609 shopping websites across their product and cart pages. In both pages, they indicated the
+limited availability of a product or that a product was in high demand and thus likely to become
+unavailable soon. Figure 7 highlights instances of these two types.
+(a) Low-stock Message on 6pm.com. Left: Choosing product options shows Only 3 left in stock.
+Right: The out-of-stock product makes it seem that it just sold out.
+(b) Low-stock on orthofeet
+.com. Appears for all products.
+(c) High-demand Message on fashionnova.com.
+The message appears for all products in the cart.
+Fig. 7. Two types of the Scarcity category of dark patterns.
+Low-stock Messages. The ‘Low-stock Message’ dark pattern signals to users about limited
+quantities of a product. Figure 7a shows an instance of this pattern on 6pm.com, displaying the
+precise quantity in stock. In our data set, we found a total of 632 instances of the Low-stock Message
+dark pattern. However, not all of these instances displayed stock quantities. 49 of these instances
+only indicated that stock was limited or low, without displaying the exact quantity, resulting in
+uncertainty, increased desirability of products, and impulse buying behavior in users. Figure 7b
+shows one such instance on orthofeet.com.
+Deceptive Low-stock Messages. We examined all the Low-stock Message dark patterns for deceptive practices using the method described in Section 4.4. From the resulting data, we ignored
+those websites whose stock amounts remained the same between visits, reasoning that those are
+unlikely to be indicative of deceptive practices. We then manually examined the remaining sites
+and identified how the stock information was generated.
+In our data set, we discovered a total of 17 instances of deceptive Low-stock Messages on 17
+shopping websites. On further examination, we observed that 16 of these sites decremented stock
+amounts in a recurring, deterministic pattern according to a schedule, and the one remaining site
+(forwardrevive.com) randomly generated stock values on page load. Exactly 8 of these sites used
+third-party JavaScript libraries to generate the stock values, such as Hurrify [17] and Booster [11].
+Both of these are popular plugins for Shopify—one of the largest e-Commerce companies—based
+websites. The remaining websites injected stock amounts through first-party JavaScript or HTML.
+Besides the use—or non-use—of numeric data and deception, Low-stock Messages can be concerning in other ways. For example, we observed that several websites, such as 6pm.com and
+orthofeet.com, displayed Low-stock Messages for nearly all their products—stating ‘Only X left’
+and ‘Hurry, limited quantities left!’ respectively. The former, in particular, showed a ‘Sorry, this is
+out of stock. You just missed it’ popup dialog for every product that was sold out, even if it had
+already been out of stock in the previous days.
+(a) Hard to Cancel on sportsmanguide.com. The website only discloses in the terms
+PDF file that canceling the recurring service requires calling customer service.
+(b) Hard to Cancel on savagex.com. The website discloses
+upfront that the recurring service can only be canceled through
+customer care.
+Fig. 8. The Hard to Cancel type from the Obstruction category of dark patterns.
+Using our taxonomy of dark pattern characteristics, we classify Low-stock Messages as partially
+covert (it creates a heightened sense of impulse buying, unbeknownst to users), sometimes deceptive
+(it can mislead users into believing a product is low on stock when in reality it is not, creating false
+scarcity), and sometimes information hiding (in some instances, it does not explicitly specify the
+stock quantities at hand) in nature.
+High-demand Messages. The ‘High-demand Message’ dark pattern signals to users that a
+product is in high demand, implying that it is likely to sell out soon. Figure 7c shows one such
+instance on fashionnova.com on the cart page, indicating that the products in the cart are selling
+out quickly. In our data set, we found a total of 47 instances of the High-demand dark pattern; 38
+of these instances appeared consistently, regardless of the product displayed on the website, or
+regardless of the items in cart. As with Low-stock Messages, we classify High-demand Messages as
+partially covert.
+5.1.6 Obstruction. ‘Obstruction’, coined by Gray et al. [48], refers to the category of dark patterns
+that make a certain action harder than it should be in order to dissuade users from taking that
+action. We observed one type of the Obstruction dark pattern: ‘Hard to Cancel’—a pattern similar
+to Brignull’s Roach Motel dark pattern [32]—on 31 websites. Obstruction makes it easy for users to
+sign up for recurring subscriptions and memberships, but it makes it hard for them to subsequently
+cancel the subscriptions.
+More often than not, shopping websites did not disclose upfront to users that canceling the
+subscription or membership could not be completed in the same manner they signed up for the
+memberships in the first place. For example, as shown in Figure 8a, sportsmansguide.com promotes a ‘buyer’s club’ discount membership price and makes it easy for users to sign up for the
+annual recurring membership, as they are under the impression they can ‘cancel anytime.’ However,
+sportsmansguide.com’s terms of service reveal that the membership can only be cancelled by calling their customer service. In rare instances, as shown in Figure 8b, websites such as savagex.com
+disclosed upfront that cancellation required calling customer service.
+Using our taxonomy of dark pattern characteristics, we classify Hard to Cancel as restrictive (it
+limits the choices users can exercise to cancel their services) in nature. In cases where websites do
+(a) Forced Enrollment on musiciansfriend.com.
+Agreeing to the terms of use also requires agreeing
+to receive emails and promotions.
+(b) Forced Enrollment on therealreal.com. Browsing
+the website requires creating an account even without
+making a purchase.
+Fig. 9. The Forced Enrollment type from the Forced Action category of dark patterns.
+not disclose their cancellation policies upfront, Hard to Cancel also becomes information hiding (it
+fails to inform users about how cancellation is harder than signing up) in nature.
+5.1.7 Forced Action. ‘Forced Action’ refers to the category of dark patterns—originally proposed by
+Gray et al. [48]—that require users to take certain additional and tangential actions to complete their
+tasks. We observed one type of the Forced Action dark pattern, ‘Forced Enrollment’, on 6 websites.
+This type of dark pattern explicitly coerces users into signing up for marketing communication, or
+creates accounts to surrender users’ information. By using the Forced Enrollment dark pattern,
+online services and websites collected more information about their users than they might otherwise
+consent to—resulting from an all-or-nothing proposition.
+On four out of six websites, the Forced Enrollment dark pattern manifested as a checkbox
+in the user interface, requiring users to simultaneously consent to the terms of service and to
+receiving marketing emails as part of the consent process. Figure 9a shows one such instance on
+musiciansfriend.com. In another instance of the Forced Enrollment on therealreal.com—as
+shown in Figure 9b—the website displayed a popup dialog that prevented users from viewing
+product offerings on the website without creating an account—even if users eventually decide
+against making a purchase.
+Using our taxonomy of dark pattern characteristics, we classify Forced Enrollment as asymmetric
+(it requires competing the additional, tangential tasks, creating unequal choices) and restrictive (it
+mandates enrolling in marketing communication or creating accounts) in nature.
+5.2 Dark Patterns as A Third-Party Service: A Case Study Of Social Proof Activity
+Notifications
+In many instances, third-party entities—i.e., organizations and companies other than the shopping
+websites themselves—were responsible for creating and presenting dark patterns on behalf of the
+shopping websites. We observed this frequently to be the case for one dark pattern in particular:
+Social Proof Activity Notifications (Section 5.1.4). In this section, we shed light on the ecosystem of
+third parties that enable Social Proof Activity Notifications, using our starting point as the list of
+websites in our data set that displayed such Activity Notifications.
+5.2.1 Detecting Third-party Entities. In order to detect third-party entities, it is sufficient to uncover
+scripts that are served from third-party domains and are responsible for creating Social Proof
+Activity Notifications. However, automatically attributing certain interface elements and webpage
+modifications to third-party scripts constitutes a more challenging task because modern browsers
+do not expose any means to attribute DOM changes (e.g. displaying a popup dialog) to particular
+scripts. Further, web pages may be modified by several different first and third-party scripts in the
+same visit, making attribution trickier.
+To overcome this challenge, we employed a combination of automated and manual analyses. We
+used the following observation: when a third-party entity displays an Activity Notification on a
+shopping website, its content should be included in the HTTP response received from this third
+party’s servers on that website. For example, if the notification states ‘Jane from Washington, DC
+just purchased this product’, looking up the customer name and location—in this case ‘Jane’ and
+‘Washington, DC’—in the HAR file for that website should reveal the end point of the server that
+issued the notification. Thus, for all notifications of this kind, we extracted the name and location
+pairs from the content, searched the HAR files for these pairs; where successful, we recorded the
+HTTP endpoints corresponding to the third-parties. We then manually verified these endpoints
+and determined the responsible entities by using the WHOIS database, visiting the script domains
+and using search engines to uncover the company identities and websites.
+Where this analysis failed to return an HTTP endpoint from the HAR files, and for all other
+kinds of Social Proof Activity Notification (e.g., ‘This product was added to cart 10 times in the last
+day’), we manually visited the websites containing the message to determine the responsible third
+parties. We sped up this analysis using Google Chrome Developer Tool’s ‘DOM change breakpoints’
+feature [16], which helped us easily determine the responsible entities.
+Having determined the third-party entities, we measured their prevalence across all the shopping
+websites in our data set. To do so, we searched the HTTP request data from checkout crawls for the
+third-party domains we identified. Finally, as a reference point, we also determined their prevalence
+on the web—beyond shopping websites—using the latest publicly available crawl data (November
+2018) from the Princeton Web Census Project [7, 40]. This public project documents the prevalence
+of third-party scripts using periodic scans of home pages of Alexa top million sites and is available
+for external researchers to use.
+5.2.2 The Ecosystem Of Third-party Entities. Table 2 summarizes our findings. We discovered a
+total of 22 third-party entities, embedded in 1,066 of the 11K shopping websites in our data set, and
+in 7,769 of the Alexa top million websites. We note that the prevalence figures from the Princeton
+Web Census Project data should be taken as a lower bound since their crawls are limited to home
+pages of websites. This difference in prevalence is particularly visible for certain third-party entities
+like Qubit and Taggstar, where their prevalence is higher in our data set compared to the Web
+Census data. By manually examining websites that contained these third parties, we discovered that
+many shopping websites only embedded them in their product—and not home—pages, presumably
+for functionality and performance reasons.
+We learned that many third-party entities offered a variety of services for shopping websites,
+including plugins for popular e-commerce platforms such as Shopify10 and Woocommerce11. To
+better understand the nature and capabilities of each third-party entity, we examined any publicly
+available marketing materials on their websites.
+Broadly, we could classify the third-party entities into two groups. The first group exclusively
+provided Social Proof Activity Notifications integration as a service. The second group provided a
+wider array of marketing services that often enabled other types of dark patterns; most commonly
+10https://shopify.com
+11https://woocommerce.com
+Table 2. List and prevalence of Social Proof Activity Notifications enabling third-party entities in our data
+set of 11K shopping websites and the home pages of Alexa top million websites [7]. Where available, we list
+additional dark patterns the third parties claim to offer. Nice/Bizzy, Woocommerce Notification, Boost, and
+Amasty are Shopify, Woocommerce, Wordpress and Magento plugins respectively
+these were Scarcity and Urgency dark patterns. We list all these additional dark pattern capabilities
+in the rightmost column of Table 2.
+Many of the third-parties advertised practices that appeared to be—and sometimes unambiguously
+were—manipulative: ‘[p]lay upon [customers’] fear of missing out by showing shoppers which
+products are creating a buzz on your website’ (Fresh Relevance), ‘[c]reate a sense of urgency to
+boost conversions and speed up sales cycles with Price Alert Web Push’ (Insider), ‘[t]ake advantage
+of impulse purchases or encourage visitors over shipping thresholds’ (Qubit). Further, Qubit also
+advertised Social Proof Activity Notifications that could be tailored to users’ preferences and
+backgrounds.
+In some instances, we found that third parties openly advertised the deceptive capabilities of their
+products. For example, Boost dedicated a web page—titled ‘Fake it till you make it’—to describing
+how it could help create fake orders [12]. Woocommerce Notification—a Woocommerce platform
+plugin—also advertised that it could create fake social proof messages: ‘[t]he plugin will create fake
+orders of the selected products’ [24]. Interestingly, certain third parties (Fomo, Proof, and Boost)
+used Activity Notifications on their websites to promote their own products.
+Finally, we also discovered that some of these deceptive practices resulted in e-commerce platforms taking action against third-party entities. For instance, Beeketing’s—the most popular third
+This is an instance of Dark Pattern
+called ‘Countdown Timer’. The timer
+might be fake. Click to learn more.
+Fig. 10. Mockup of a possible browser extension that can be developed using our data set. The extension
+flags instances of dark patterns with a red warning icon. By hovering over the icon, the user can learn more
+about the specific pattern.
+party provider in our data set—‘Sales Pop’ Shopify plugin was temporarily removed from Shopify in
+an effort to crack down on deceptive practices [67, 76]. The plugin had allowed websites to create
+fake Activity Notifications by entering fabricated sales data.
+In summary, we discovered that third party entities widely enable dark patterns on shopping
+websites. Furthermore, some of these third-parties even advertised the deceptive use of their
+services.
+6 DISCUSSION
+6.1 Dark Patterns and Implications For Consumers
+Many dark patterns constitute manipulative and deceptive practices that past work has shown
+users are increasingly becoming aware of [36]. Our current data set of dark patterns, comprising
+of screenshots and text segments, can be used to build countermeasures to help users make more
+informed decisions even in the presence of dark patterns. One such countermeasure could be a
+public-facing website that scores shopping websites based on their use of dark patterns. Our data
+set can also enable the development of browser extensions that automatically detect and flag dark
+patterns (e.g., shopping websites, as shown in Figure 10). Such a tool could be augmented to flag
+dark patterns on websites not in our data set through users’ submissions, through communitygenerated and maintained lists (similar to how ad blockers work [26]), or through trained machine
+learning classifiers. Eventually, such tools could be integrated into browsers themselves. For
+example, in recent years, Firefox and Safari have shown interest in integrating tools that promote
+consumer privacy (e.g., features to block web tracking by default [66, 82]). However, finding the
+right incentives for browser vendors to implement these solutions might be challenging in the
+context of dark patterns, since they might be wary of policing content on the web. Finally, future
+studies could leverage our descriptive and comparative taxonomy of dark pattern characteristics to
+better understand their effects on users, as well as to ascertain which dark patterns are considered
+most egregious by users (e.g., by means of users studies).
+6.2 Implications for Consumer Protection Policy and Retailers
+Our results demonstrate that a number of shopping websites use deceptive dark patterns, involving
+affirmative and false representations to consumers. We also found 22 different third-party entities
+that enable the creation of Social Proof Activity Notification dark patterns. Some of these entities
+promote blatantly deceptive practices and provide the infrastructure for retailers to use these
+practices to influence consumer behavior for profit. These practices are unambiguously unlawful in
+the United States (under Section 5 of the Federal Trade Commission Act and similar state laws [45]),
+and the European Union (under the Unfair Commercial Practices Directive and similar member
+state laws [42]).
+We also find practices that are unlawful in a smaller set of jurisdictions. In the European Union,
+businesses are bound by an array of affirmative disclosure and independent consent requirements in
+the Consumer Rights Directive [43]. Websites that use the Sneaking dark patterns (Sneak into Basket,
+Hidden Subscription, and Hidden Costs) on European Union consumers are likely in violation of
+the Directive. Furthermore, user consent obtained through Trick Questions and Visual Interference
+dark patterns do not constitute freely given, informed and active consent as required by the General
+Data Protection Regulation (GDPR) [44]. In fact, the Norwegian Consumer Council filed a GDPR
+complaint against Google in 2018, arguing that Google used dark patterns to manipulate users
+into turning on the ‘Location History’ feature on Android, and thus enabling constant location
+tracking [47].
+In addition to demonstrating specific instances of unlawful business practices, we contribute a
+new approach for regulatory agencies and other consumer protection stakeholders (e.g., journalists
+and civil society groups) to detect dark patterns. The crawling and clustering methodology that
+we developed is readily generalizable, and it radically reduces the difficulty of discovering and
+measuring dark patterns at web scale. Furthermore, our data set of third-party entities which
+provide the infrastructure to enable certain deceptive dark patterns can be used by regulators as a
+starting point to inform policy and regulation around what kinds of practices should be allowable
+in the context online shopping.
+6.3 Dark Patterns and Future Studies At Scale
+We created automated techniques that can be used to conduct measurements of dark patterns at
+web scale. Researchers can extend our tools and infrastructure to document the presence of dark
+patterns other types of websites (e.g., travel and ticket booking websites) by building a crawler
+that traverses users’ primary interaction paths on those websites. Researchers can also extend our
+techniques to measure dark patterns that are not inherently dark because of the text they display
+but because they take advantage of visual elements. For example, urgency can be created by a
+blinking timer; similarly, Hidden Subscriptions can make the default option (e.g., subscribing to
+a paid service) visually more appealing and noticeable than its alternative (e.g., not subscribing).
+One starting point to detect such interfaces could be to incorporate style and color as features for
+clustering, or even use the design mining literature [39, 56, 59] to analyze specific types of interfaces
+(e.g., page headers) in isolation. Finally, researchers can leverage our descriptive taxonomy of dark
+pattern characteristics to study and analyze dark patterns in other domains, such as emails and
+mobile applications.
+6.4 Limitations
+Our research has several limitations. First, we only take into account text-based dark patterns and,
+therefore, leave out those that are inherently visual (e.g., using font size or color to emphasize one
+part of the text more than another). Second, many of the dark patterns we document are derived
+from the existing dark patterns literature. However, some of these are exist in a gray area, and in
+those cases determining whether a dark pattern is deliberately misleading or not can sometimes be
+hard to discern. Opinions of dark patterns may also vary between and among experts and users (e.g.,
+countdown timers to indicate when to order to be eligible for free shipping). Clarifying this gray
+area and establishing the degree to which these patterns are perceived as manipulative by users can
+be further investigated by future user studies. Third, in Section 3 we drew connections between
+
+each type of dark pattern and a set of cognitive biases it exploits. However, these connections may
+be more nuanced or complex. For example, not all individuals may be equally susceptible to these
+cognitive biases; some individuals may be more susceptible to one kind over another. Fourth, during
+our crawls we experienced a small number of Selenium crashes, which did not allow us to either
+retrieve product pages or complete data collection on certain websites. Fifth, while the crawler was
+mostly effective in simulating user actions, it failed to complete the product purchase flow on some
+websites (see Section 4). Sixth, and finally, we only crawled product pages and checkout pages,
+missing out on dark patterns commonly present in other pages, such as the home page, product
+search, and account creation pages. Many dark patterns also appear after purchase (e.g., upselling)
+which our crawler fails to capture because we do not make purchases. Future studies could consider
+collecting these kinds of dark patterns from users.
+7 CONCLUSION
+In this paper, we developed automated techniques to study dark patterns on the web at scale.
+By simulating user actions on the ∼11K most popular shopping websites, we collected text and
+screenshots of these websites to identify their use of dark patterns. We defined and characterized
+these dark patterns, describing how they affect users’ decisions by linking our definitions to the
+cognitive biases leveraged by dark patterns. We found at least one instance of dark pattern on
+approximately 11.1% of the examined websites. Notably, 183 of the websites displayed deceptive
+messages. Furthermore, we observed that dark patterns are more likely to appear on popular
+websites. Finally, we discovered that dark patterns are often enabled by third-party entities, of
+which we identify 22; two of these advertise practices that enable deceptive patterns. Based on these
+findings, we suggest that future work focuses on empirically evaluating the effects of dark patterns
+on user behavior, developing countermeasures against dark patterns so that users have a fair and
+transparent experience, and extending our work to discover dark patterns in other domains.
+
+
+
+
+Dark patterns are user interfaces that benefit an online service by leading users into making decisions they might not otherwise make. Some dark patterns deceive users while others covertly manipulate or coerce them into choices that are not in their best interests. A few egregious examples have led to public backlash recently: TurboTax hid its U.S. government-mandated free tax-file program for lowincome users on its website to get them to use its paid program;9 Facebook asked users to enter phone numbers for two-factor authentication but then used those numbers to serve targeted ads;31 Match.com knowingly let scammers generate fake messages of interest in its online dating app to get users to sign up for its paid service.13 Many dark patterns have been adopted on a large scale across the web. Figure 1 shows a deceptive countdown timer dark pattern on JustFab. The advertised offer remains valid even after the timer expires. This pattern is a common tactic—a recent study found such deceptive countdown timers on 140 shopping websites.20 The research community has taken note. Recent efforts The evolution of tricky user interfaces ARVIND NARAYANAN, ARUNESH MATHUR, MARSHINI CHETTY, AND  MIHIR KSHIRSAGAR 1 of 25 TEXT  ONLY Dark Patterns Past, Present, and Futureacmqueue | march-april 2020 68 web services have catalogued dozens of problematic patterns such as nagging the user, obstructing the flow of a task, and setting privacy-intrusive defaults,1,18 building on an early effort by Harry Brignull (darkpatterns.org). Researchers have also explained how dark patterns operate by exploiting cognitive biases,4,20,33 uncovered dark patterns on more than 1,200 shopping websites,20 shown that more than 95 percent of the popular Android apps contain dark patterns,8 and provided preliminary evidence that dark patterns are indeed effective at manipulating user behavior.19,30 Although they have recently burst into mainstream awareness, dark patterns are the result of three decadeslong trends: one from the world of retail (deceptive 2 of 25 FIGURE 1: A deceptive countdown timer on JustFab 1acmqueue | march-april 2020 69 web services practices), one from research and public policy (nudging), and the third from the design community (growth hacking). Figure 2 illustrates how dark patterns stand at the confluence of these three trends. Understanding these trends—and how they have collided into each other—is essential to help us appreciate what is actually new about dark patterns, demystifies their surprising effectiveness, and shows us why it will be hard to combat them. We end this article with recommendations for ethically minded designers. DECEPTION AND MANIPULATION IN RETAIL The retail industry has a long history of deceptive and manipulative practices that range on a spectrum from normalized to unlawful (figure 3). Some of these techniques, such as psychological pricing (i.e., making the price slightly less than a round number), have become 3 of 25 deceptive practices in retail research on nudges dark patterns growth hacking FIGURE 2: The origins of dark patterns 2acmqueue | march-april 2020 70 web services 4 of 25 FIGURE 3: Examples of deceptive and manipulative retail practices (a) psychological pricing (b) false advertisement of store closure Source: https://www.crazyspeedtech.com/5-major-stages-psychological-pricing/ (c) bait-and-switch car ad Source: https://www.dealnews.com/features/What-Happens-When-a-StoreCloses/2203265.html Source: https://www.ftc.gov/enforcement/cases-proceedings/1223269/ganleyford-west-inc-matter 3acmqueue | march-april 2020 71 web services normalized. This is perfectly legal, and consumers have begrudgingly accepted it. Nonetheless, it remains effective: consumers underestimate prices when relying on memory if psychological pricing is employed.3 More problematic are practices such as false claims of store closings, which are unlawful but rarely the target of enforcement actions. At the other extreme are baitand-switch car ads such as the one by a Ford dealership in Cleveland that was the target of an FTC action.14 THE ORIGINS OF NUDGING In the 1970s, the heuristics and biases literature in behavioral economics sought to understand irrational decisions and behaviors—for example, people who decide to drive because they perceive air travel as dangerous, even though driving is, in fact, orders of magnitude more dangerous per mile.29 Researchers uncovered a set of cognitive shortcuts used by people that make these irrational behaviors not just explainable but even predictable. For example, in one experiment, researchers asked participants to write down an essentially random twodigit number (the last two digits of each participant’s social security number), then asked if they would pay that number of dollars for a bottle of wine, and finally asked the participants to state the maximum amount they would pay for the bottle.2 They found that the willingness to pay varied by roughly threefold based on the arbitrary number. This is the anchoring effect: lacking knowledge of the market value of the bottle of wine, participants’ estimates become anchored to the arbitrary reference point. This 5 of 25acmqueue | march-april 2020 72 web services study makes it easy to see how businesses might be able to nudge customers to pay higher prices by anchoring their expectations to a high number. In general, however, research on psychological biases has not been driven by applications in retail or marketing. That would come later. NUDGING: THE TURN TO PATERNALISM The early behavioral research on this topic focused on understanding rather than intervention. Some scholars, such as Cass Sunstein and Richard Thaler, authors of the book Nudge,28 went further to make a policy argument: Governments, employers, and other benevolent institutions should engineer “choice architectures” in a way that uses behavioral science for the benefit of those whom they serve or employ. A famous example (figure 4) is the striking difference in organ-donation consent rates between countries where people have to explicitly provide consent (red bars) versus those where consent is presumed (orange bars). Because most people tend not to change the default option, the latter leads to significantly higher consent rates.17 Today, nudging has been enthusiastically adopted by not only governments and employers, but also businesses in the way they communicate with their customers. The towel reuse message you may have seen in hotel rooms (“75 percent of guests in this hotel usually use their towels more than once”) is effective because it employs descriptive social norms as a prescriptive rule to get people to change their behavior.16 With the benefit of hindsight, neither the proponents nor the critics of nudging anticipated how readily and 6 of 25acmqueue | march-april 2020 73 web services vigorously businesses would adopt these techniques in adversarial rather than paternalistic ways. In Nudge Sunstein and Thaler briefly address the question of how to tell if a nudge is ethical, but the discussion is perfunctory. The authors seem genuinely surprised by recent developments and have distanced themselves 7 of 25 100 4.25 27.5 explicit consent presumed consent 17.17 12 99.98 98 99.91 99.99 99.5 99.64 85.9 80 60 40 Denmark Netherlands United Kingdom Germany Austria Belgium France Hungary Poland Portugal Sweden 20 0 effective consent rate (%) FIGURE 4: Organ-donation consent rates by countries 4acmqueue | march-april 2020 74 web services from dark patterns, which they label “sludges.”27 GROWTH HACKING The third trend—and the one that most directly evolved into dark patterns—is growth hacking. The best-known and arguably the earliest growth hack was implemented by Hotmail. When it launched in 1996, the founders first considered traditional marketing methods such as billboard advertising. Instead, they hit upon a viral marketing strategy: The service automatically added the signature, “Get your free email with Hotmail,” to every outgoing email, essentially getting users to advertise on its behalf, resulting in viral growth.21 Successes like these led to the emergence of growth hacking as a distinct community. Growth hackers are trained in design, programming, and marketing and use these skills to drive product adoption. Growth hacking is not inherently deceptive or manipulative but often is in practice. For example, in twosided markets such as vacation rentals, upstarts inevitably face a chicken-and-egg problem: no travelers without hosts and no hosts without travelers. So it became a common practice to “seed” such services with listings that were either fake or scraped from a competitor.22,23 Unsurprisingly, growth hacking has sometimes led to legal trouble. A hugely popular growth hack involved obtaining access to users’ contact books—often using deception—and then spamming those contacts with invitations to try a service. The invitations might themselves be deceptive by appearing to originate from the user, when in fact users were unaware of the emails 8 of 25acmqueue | march-april 2020 75 web services being sent. Linkedin settled a class action for exactly this practice, which it used from 2011 to 2014.25 FROM GROWTH HACKING TO DARK PATTERNS But why growth rather than revenue or some other goal? It is a reflection of Silicon Valley’s growth-first mantra in which revenue-generating activities are put aside until after-market dominance has been achieved. Of course, eventually every service runs into limits on growth, because of either saturation or competition, so growth hackers began to adapt their often-manipulative techniques to extracting and maximizing revenue from existing users. In developing their battery of psychological tricks, growth hackers had two weapons that were not traditionally available in offline retail. The first was that the nudge movement had helped uncover the principles of behavior change. In contrast, the marketing literature that directly studied the impact of psychological tricks on sales was relatively limited because it didn’t get at the foundational principles and was limited to the domain of retail. The second weapon was A/B testing (figure 5). By serving variants of web pages to two or more randomly 9 of 25 FIGURE 5: Hypothetical illustration of A/B testing on a website 5 Source: https://en.wikipedia.org/wiki/A/B_testingacmqueue | march-april 2020 76 web services selected subsets of users, designers began to discover that even seemingly trivial changes to design elements can result in substantial differences in behavior. The idea of data-driven optimization of user interfaces has become deeply ingrained in the design process of many companies. For large online services with millions of users, it is typical to have dozens of A/B tests running in parallel, as noted in 2009 by Douglas Bowman, once a top visual designer at Google: Yes, it’s true that a team at Google couldn’t decide between two blues, so they’re testing 41 shades between each blue to see which one performs better. I had a recent debate over whether a border should be 3, 4, or 5 pixels wide, and was asked to prove my case. I can’t operate in an environment like that. I’ve grown tired of debating such minuscule design decisions. There are more exciting design problems in this world to tackle. —Douglas Bowman A/B testing proved key to the development of dark patterns because it is far from obvious how to translate an abstract principle like social proof into a concrete nudge (“7 people are looking at this hotel right now!”). Another example: For how long should a fake countdown timer be set (“This deal expires in 15 minutes!” ... “14:59” ... “14:58” ...), so that the user acts with urgency but not panic? Online experiments allow designers to find the answers with just a few lines of code. 10 of 25acmqueue | march-april 2020 77 web services MONEY, DATA, ATTENTION Let’s recap. As the online economy matured, services turned their attention from growth to revenue. They used the principles of behavioral influence but subverted the intent of the researchers who discovered those principles by using them in ways that undermined consumers’ autonomy and informed choice. They used A/B testing to turn behavioral insights into strikingly effective user interfaces. In some cases these were optimized versions of tricks that have long been used in retail, but in other cases they were entirely new. How, exactly, do dark patterns help maximize a company’s ability to extract revenue from its users? The most obvious way is simply to nudge (or trick) consumers into spending more than they otherwise would. A less obvious, yet equally pervasive, goal of dark patterns is to invade privacy. For example, cookie consent dialogs almost universally employ manipulative design to increase the likelihood of users consenting to tracking. In fact, a recent paper shows that when asked to opt in, well under 1 percent of users would provide informed consent.30 Regulations such as the GDPR (General Data Protection Regulation) require companies to get explicit consent for tracking, which poses an existential threat to many companies in the online tracking and advertising industry. In response, they appear to be turning to the wholesale use of dark patterns.30 A third goal of dark patterns is to make services addictive. This goal supports the other two, as users who stay on an app longer will buy more, yield more personal information, and see more ads. Apps like Uber use gamified 11 of 25acmqueue | march-april 2020 78 web services nudges to keep drivers on the road longer (figure 6). The needle suggests that the driver is extremely close to the goal, but it is an arbitrary goal set by Uber when a driver wants to go offline.24 To summarize, dark patterns enable designers to extract three main resources from users: money, data, and attention. DARK PATTERNS ARE HERE TO STAY Two years ago, few people had heard the term dark patterns. Now it’s everywhere. Does this mean dark patterns are a flash in the pan? Perhaps, as users figure out what’s going on, companies will realize that dark patterns are counterproductive and stop using them. The market could correct itself. The history sketched here suggests that this optimistic FIGURE 6: One of Uber’s gamified nudges to keep drivers on the road 12 of 25 Source: https://www.nytimes.com/ interactive/2017/04/02/technology/ uber-drivers-psychological-tricks.html 6acmqueue | march-april 2020 79 web services view is unlikely. The antecedents of dark patterns are decades old. While public awareness of dark patterns is relatively new, the phenomenon itself has developed gradually. In fact, the darkpatterns.org website was established in 2010. The history also helps explain what is new about dark patterns. It isn’t just tricky design or deceptive retail practices online. Rather, design has been weaponized using behavioral research to serve the aims of the surveillance economy. This broader context is important. It helps explain why the situation is as bad as it is and suggests that things will get worse before they can get better. One worrying trend is the emergence of companies that offer dark patterns as a service, enabling websites to adopt them with a few lines of JavaScript.20 Another possible turn for the worse is personalized dark patterns that push each user’s specific buttons.26 This has long been predicted5 but remains rare today (manipulative targeted advertising can arguably be viewed as a dark pattern, but ads are not user interfaces). The absence of personalized UI is presumably because companies are busy picking lower-hanging fruit, but this can change any time. RECOMMENDATIONS FOR DESIGNERS Designers should be concerned about the proliferation of dark patterns. They are unethical and reflect badly on the profession. But this article is not a doom-and-gloom story. There are steps you can take, both to hold yourself and your organization to a higher standard, and to push back against the pressure to deploy dark patterns in the industry. 13 of 25acmqueue | march-april 2020 80 web services Go beyond superficial A/B testing metrics Earlier this article discussed how designers use A/B tests to optimize dark patterns. But there’s a twist: a design process hyperfocused on A/B testing can result in dark patterns even if that’s not the intent. That’s because most A/B tests are based on metrics that are relevant to the company’s bottom line, even if they result in harm to users. As a trivial example, an A/B test might reveal that reducing the size of a “Sponsored” label that identifies a search result as an advertisement causes an increase in the CTR (click-through rate). While a metric such as CTR can be measured instantaneously, it reveals nothing about the long-term effects of the design change. It is possible that users lose trust in the system over time when they realize they are being manipulated into clicking on ads. In fact, Google’s recent change to its ad labels made it hard for users to distinguish ads from organic search results, and presumably increased CTR for ads (figure 7). A backlash ensued, however, and Google rolled back this interface.32 To avoid falling into this trap, evaluate A/B tests on at least one metric that measures long-term impacts. In addition to measuring the CTR, you could also measure user retention. That will tell you if a different-sized label results in more users abandoning the website. Still, many attributes that matter in the long term, such as trust, are not straightforward to observe and measure, especially in the online context. Think critically about the designs you choose to test, and when you find that a certain design performs better, try to understand why. While the overreliance on A/B testing is a critical issue to be addressed, let’s next turn to a much broader and longer-term concern. Incorporate ethics into the design process While dark patterns are a highly visible consequence of the ethical crisis in design, resolving the crisis entails far more than avoiding a simple list of patterns. It requires structural changes to the design process. Start by articulating the values that matter to you and that will guide your design.15 Not every organization will have an identical set of values, but these values must be FIGURE 7: Google’s recent change to its ad labels recent change to its ad labels 15 of 25 7acmqueue | march-april 2020 82 web services broadly aligned with what society considers important. In fact, much of the present crisis can be traced to a misalignment of values between society and companies. Autonomy and privacy are two values where this is particularly stark. Consider frictionless design, a bedrock value in the tech industry. Unfortunately, it robs users of precisely those moments that may give them opportunities for reflection and enable them to reject their baser impulses. Frictionlessness is antithetical to autonomy. Similarly, designing for pleasure and fun is a common design value, but when does fun cross the line into addiction? Once you’ve articulated your values, continue to debate them internally. Publicize them externally, seek input from users, and, most importantly, hold yourself accountable to them. Effective accountability is challenging, however. For example, advisory boards established by technology companies have been criticized for not being sufficiently independent. Everyday design decisions should be guided by referring to established values. In many cases it is intuitively obvious whether a design choice does or does not conform to a design value, but this is not always so. Fortunately, research has revealed a lot about the factors that make a design pattern dark, such as exploiting known cognitive biases and withholding crucial information.4,20 Stay abreast of this research, evaluate the impact of design on your users, and engage in critical debate about where to draw the line based on the company’s values and your own sense of ethics. Rolling back a change should always be an option if it turns out that it didn’t live up to your values. 16 of 25acmqueue | march-april 2020 83 web services As you gain experience making these decisions in a particular context, higher-level principles can be codified into design guidelines. There is a long tradition of usability guidelines in the design community. There are also privacyby-design guidelines, but they are not yet widely adopted.10 There is relatively little in the way of guidelines for respecting user autonomy. All of this is beyond the scope of what individual designers can usually accomplish; the responsibility for incorporating ethics into the design process rests with organizations. As an individual, you can start by raising awareness within your organization. Self regulate or get regulated Dark patterns are an abuse of the tremendous power that designers hold in their hands. As public awareness of dark patterns grows, so does the potential fallout. Journalists and academics have been scrutinizing dark patterns, and the backlash from these exposés can destroy brand reputations and bring companies under the lenses of regulators. Many dark patterns are already unlawful. In the United States, the Federal Trade Commission (FTC) Act prohibits “unfair or deceptive” commercial practices.11 In a recent example, the FTC reached a settlement with Unroll. Me—a service that unsubscribed users’ email addresses from newsletters and subscriptions—because it was in fact selling information it read from their inboxes to third parties.12 European Union authorities have tended to be stricter: French regulator CNIL (Commission Nationale de l’Informatique et des Libertés) fined Google 50 million 17 of 25acmqueue | march-april 2020 84 web services euros for hiding important information about privacy and ad personalization behind five to six screens.6 There is also a growing sense that existing regulation isn’t enough, and new legislative proposals aim to curb dark patterns.7 While policymakers should act—whether by introducing new laws or by broadening and strengthening the enforcement of existing ones—relying on regulation isn’t sufficient and comes with compliance burdens. Let’s urge the design community to set standards for itself, both to avoid onerous regulation and because it’s the right thing to do. A first step would be to rectify the misalignment of values between the industry and society, and develop guidelines for ethical design. It may also be valuable to partner with neutral third-party consumer advocacy agencies to develop processes to certify apps that are free of known dark patterns. Self-regulation also requires cultural change. When hiring designers, ask about the ethics of their past work. Similarly, when deciding between jobs, use design ethics as one criterion for evaluating a company and the quality of its work environment. Related articles 3 User Interface Designers,  Slaves of Fashion The status quo prevails in interface design, and the flawed concept of cut-and-paste  is a perfect example. Jef Raskin https://queue.acm.org/detail.cfm?id=945161 3 The Case Against Data Lock-in Want to keep your users? Just make it  easy for them to leave. Brian W. Fitzpatrick and J.J. Lueck https://queue.acm.org/detail.cfm?id=1868432 3 Bitcoin’s Academic Pedigree The concept of cryptocurrencies is built  from forgotten ideas in research literature. Arvind Narayanan and Jeremy Clark https://queue.acm.org/detail.cfm?id=3136559 18 of 25acmqueue | march-april 2020 85 web services Design is power. In the past decade, software engineers have had to confront the fact that the power they hold comes with responsibilities to users and to society. In this decade, it is time for designers to learn this lesson as well.
+
+
+
+
+
+
+first_pageDownload PDFsettingsOrder Article Reprints
+Open AccessArticle
+Clustering of Dark Patterns in the User Interfaces of Websites and Online Trading Portals (E-Commerce)
+by Dmitry Nazarov 1,*ORCID andYerkebulan Baimukhambetov 2,3
+1
+Department of Business Informatics, Ural State University of Economics, 620144 Ekaterinburg, Russia
+2
+Head of the Institutional Effectiveness, Abai University, Almaty 050010, Kazakhstan
+3
+DBA Program, Kazakh-British Technical University, Almaty 050010, Kazakhstan
+*
+Author to whom correspondence should be addressed.
+Mathematics 2022, 10(18), 3219; https://doi.org/10.3390/math10183219
+Submission received: 26 July 2022 / Revised: 19 August 2022 / Accepted: 25 August 2022 / Published: 6 September 2022
+Downloadkeyboard_arrow_down Browse Figures Versions Notes
+Abstract
+dark patterns in the interfaces of users using sites and portals of online trading affect their behavior by companies that own digital resources. The authors propose to implement the detection of dark patterns on sites in user interfaces using cluster analysis algorithms using two methods for clustering many dark patterns in application interfaces: hierarchical and k-means. The complexity of the implementation lies in the lack of datasets that formalize dark patterns in user interfaces. The authors conducted a study and identified signs of dark patterns based on the use of Nelsen’s antisymmetric principles. The article proposes a technique for assessing dark patterns using linguistic variables and their further interval numerical assessment for implementing cluster data analysis. The last part of the article contains an analysis of two clustering algorithms and an analysis of the methods and procedures for applying them to clustering data according to previously selected features in the RStudio environment. We also gave a characteristic for each resulting cluster.
+Keywords: dark pattern; classification; clustering algorithms; user interface
+MSC: 91B82; 91B86
+1. Introduction
+Trade relations always included the principles associated with persuading a potential client of the need to purchase a particular product. People used various ways to impose additional options and manipulate the behavior of the client. The goal was to increase the organization’s profit per purchase (customer) through psychological methods of managing customer behavior.
+The spread of digital technologies in trade and the service sector in modern conditions has new opportunities to influence the behavior of the client and get more profit. The principles of trade relations and methods of persuasion have been transferred to digital platforms, the user interfaces of which contain “dark patterns”. Such patterns influence people’s behavior, for example, for commercial or political purposes. The number of websites and mobile applications is constantly growing, and their digital architecture and interface design have a powerful influence on human behavior and decision-making. The authors of various scientific articles have raised this issue, considering the design of interfaces over the past 10 years.
+Since we associate the use of dark patterns with user interface design, we can name two Danish engineers Jakob Nielsen and Rolf Molich as the founders of this area of activity. In 1990, they planned 10 principles that a user-friendly interface should comply with [1,2,3,4,5]. From this point of view, “dark patterns” are a vivid example of ignoring these principles, “dark patterns” are interfaces created based on Nielsen’s antisymmetric principles.
+The number of dark patterns in user interfaces has increased in recent years, so the amount of damage caused to consumers has also increased. The number of various scientific papers devoted to various aspects of the detection, research, and classification of dark patterns has also increased. We would like to note the studies [6,7,8,9,10,11,12,13,14,15,16], in which the authors consider the problem of using dark patterns in user interfaces from different points of view. We present the references list in historical-logical order. The number of publications is growing non-linearly and we see some progress in the scientific interest in this problem; this emphasizes the relevance of the study.
+Perhaps the most successful attempt to classify dark patterns is the deceptive design [1,2] (formerly darkpatterns.org), which is owned by Harry Brignull, an independent user interface designer based in London. Harry Brignull is compiling a unique collection of dark patterns—real examples of how designers and businesses use specific web design techniques to deceive Internet users and encourage them to take action.
+Economics Nobel Prize winners Daniel Kahneman and Amos Tversky indirectly looked at dark patterns in terms of how they affect people’s behavior; they identified and formalized the psychological principles and criteria for decision-making and the risks associated with them [17].
+The trend associated with the introduction of digital platforms in all areas of the economy stimulates the appearance of dark patterns in application interfaces and increases the number of their types, so it will take more time and effort on the part of users to detect dark patterns. In addition, practically no such studies have been conducted in the Russian segment of the Internet; this is due to the lack of data and methods for their formalization. In general, I would like to note that while in the world the classification of dark patterns is carried out on the basis of expert assessments, therefore, a technique is required to automate this process. Our article proposes an approach that allows us to automate the process of extracting types of dark patterns to some extent.
+The purpose of the article is to cluster dark patterns in application interfaces using the R language based on user data and criteria developed by the authors.
+Dark patterns in application interface are the object of research.
+The subject of the study is classifying dark patterns in application interfaces using clustering algorithms implemented in the R language.
+The article is divided into 4 parts. The first part contains a detailed analysis of the literature on various issues of using dark patterns in user interfaces. In the second part, the authors discuss existing approaches to the classification of dark patterns in various scientific studies. The third part of the article describes the data preparation model for the clustering procedure. In the fourth part, a cluster analysis of data on the use of dark patterns in application interfaces is carried out, with an emphasis on Russian-language content. In conclusion, conclusions are drawn and prospects for the study are discussed.
+2. Using Dark Patterns in Application Interfaces
+Dark patterns are user interfaces whose designers deliberately confuse users, make it difficult for users to express their actual preferences, or manipulate users into taking certain actions. The goal of most dark patterns is to manipulate the consumer into taking actions that are inconsistent with their preferences, as opposed to marketing efforts to change those preferences.
+In terms of Kahnemann et al., “dark patterns” encourage users to decide using “System 1” based on an intuitive approach, rather than thinking through decisions using “System 2” based on cognitive features of decision-making.
+We associate the first wave of academic research on dark patterns with the formalization of this phenomenon and the development of the first typologies of dark patterns [1,2,3,4,5,6,7,8,9].
+The authors of most studies focus on user interfaces, including the location of windows, buttons, titles, and other elements on application screens [3,4,12]. José P Zagal et al. explore the features of using dark patterns on game portals [4,7]. Studies [6,9] consider the psychological basis for the use of dark patterns. The works [10,12,14] contain legal content devoted to dark patterns.
+Arunesh Mathur and co-authors published a voluminous academic study on the prevalence of dark patterns and proposed a semi-automated method for scanning over 11,000 popular shopping sites. The written script allowed them to get interesting results: over 11% of sites contained certain types of dark patterns [13]. The modern trend in the study has shifted towards mobile applications. Most of the works of 2020–2021 explore the features of using dark patterns in mobile applications and social networks [18,19,20,21,22,23,24,25,26,27,28].
+We see a pop-up in the Instagram app asking, “Do you want the service to use your actions in the app and on the website to provide better ad quality?”. Two types of response for the user: a button with a slightly darker shade of black than the background of the popup, which allows “Make ads less personalized”, and a bright blue button that calls for “Make ads more personalized” [5,29].
+The number of dark patterns multiplied during the COVID-19 pandemic. Most purchases are made online. The most common way to control people’s behavior has become the way when buying food, air and railway tickets, services of various kinds, and adding services to the basket that the user would not like to add; this method is used not only for beginners or inexperienced users; it is successfully used for advanced users [11].
+Godaddy.com sells domain names and uses a dark pattern: «Get 3 and save 69%» for USD 17.00. The next page adds privacy protection automatically to your shopping cart for USD 7.99 (Figure 1a,b).
+Mathematics 10 03219 g001 550Figure 1. «Add to cart» dark pattern on godaddy (https://www.godaddy.com/. accessed on 12 May 2022).
+The purchase price is quadrupled to USD 154.31 because there were a few extras tucked into the shopping cart—2 years of domain registration for all four domains (instead of one year as listed in the price list on the front page) and privacy protection; this scheme is one of the most common among all dark patterns.
+There are similar dark patterns on many Russian-language sites and portals related to the sale of air and railway tickets, where insurance is imposed on potential customers, payment for SMS messages about force majeure, etc. Sales services of Aeroflot, Pobeda, Russian Railways, planning portals travel from Tinkoff, Ostrovok, etc. we can give as an example.
+If we assume that only 1% of 1000 customers do not notice dark patterns, then godaddy.com will earn not USD 17,000 but about USD 1370 more; this is good for the company but bad for the customer.
+If the first wave of research created a useful classification of dark patterns in user interfaces, then the second wave allowed us to establish the growing prevalence of dark pattern types, and also automated recognizing dark patterns in user interfaces to some extent. The directions of scientific search research are diverse, and, on the one hand, scientists evaluate the effectiveness of dark patterns in persuading customers, on the other hand, they are trying to develop measures to protect users from using dark patterns in online trading. If society wants to understand the scale of the problem and the feasibility of their regulation, then these and related issues should be important.
+From the point of view of the concept of symmetry, dark patterns are a certain asymmetry that occurs in the process of online trading; this asymmetry lies in the fact that the owners of online trading applications know more about the purchase process (not about the product, as in the classical theory) than users do, and this leads to the fact that a potential client when buying a product or service, pays more than they would like.
+3. Classification of Dark Patterns
+By going to the «Types of deceptive design» page of the Deceptive design service, you can get acquainted with the classification of dark patterns [1]:
+«Trick questions»—by filling out a form, you answer a question that tricks you into giving an answer you didn’t want. On a cursory glance at the question, it seems to ask one thing, but on closer reading, it is asking quite another;
+«Sneak into basket»—you’re trying to buy something, but somewhere along the way, the site adds an item to your cart, often via an opt-out switch or a checkbox on the previous page;
+«Roach motel»—you get into a situation easily but then it is difficult for you to get out of it (for example, a premium subscription);
+«Privacy zuckering»—they tricked you into publicly sharing more information about yourself than you intended. Named after Facebook CEO Mark Zuckerberg;
+«Price comparison prevention»—the seller prevents you from comparing the price of the product with another product, so you cannot make an informed decision;
+«Misdirection»—design focuses your attention on one thing to divert attention from another;
+«Hidden costs»—you get to the last step of the checkout process but find some unexpected charges like shipping, tax, etc.;
+«Bait and switch»—you intend to do one thing but something else happens;
+«Confirmshaming»—the user’s fault for choosing something. The opt-out option is worded in such a way as to shame the user;
+«Disguised ads»—ads disguised as other content or navigation to get you to click on them;
+«Forced continuity»—when your free trial ends and your credit card is being charged insanely; this is exacerbated because unsubscribing becomes difficult in some cases;
+«Friend spam»—a site or other web service that asks you to access email or social media under the pretense of using it for the desired result (such as finding friends) but then spamming all of your contacts in a message.
+We have given a classification of all existing and noticed scientists’ dark patterns that are used in the interfaces of various web services. On the one hand, some dark patterns from the above classification cannot be automatically recognized and included in some predictive systems, on the other hand, some types of dark patterns in the above classification are similar and can be considered as variations of the same type of dark patterns; it is necessary to cluster the data array on dark patterns, but here there is a difficulty in the absence of datasets with selected features (predictors) of dark patterns. Below, we will present an approach that will allow us to build a new classification of dark patterns and simplify the writing of service for intelligent recognition of dark patterns.
+
+
+
+
+
+
+
+Notes:
+
+1)	Identify Deceptive Tactics: Investigate and classify various deceptive tactics employed on shopping websites, including misleading notifications, uncertain origin testimonials, scarcity tactics, obstruction methods hindering subscription cancellation, and forced actions like enrollment.
+2)	Analyze Third-Party Involvement: Examine the role of third-party services in enabling dark patterns, focusing on how these entities facilitate manipulative practices and potentially promote deceptive strategies.
+3)	Understand User Impact: Explore the impact of dark patterns on user behavior, decision-making processes, and overall experiences when navigating shopping websites.
+4)	Quantify Website Adoption: Measure and document the prevalence of dark patterns on examined shopping websites, determining the percentage of sites employing these tactics and the frequency of deceptive implementations.
+5)	Evaluate Deceptive Tactics Usage: Assess the extent of deceptive tactics, highlighting the number of websites utilizing misleading or manipulative strategies that could mislead users.
+6)	Examine Third-Party Roles: Investigate the involvement and contributions of third-party entities in enabling and promoting dark patterns, outlining their specific roles and services provided to shopping websites.
+7)	Assess User Awareness: Gauge user awareness and understanding of these dark patterns, including their recognition of deceptive tactics and their susceptibility to these manipulative practices.
+8)	Explore User Vulnerabilities: Understand the cognitive biases exploited by dark patterns and assess the vulnerability of users to these tactics, considering how specific biases affect user susceptibility.
+9)	Recommend Countermeasures: Suggest effective countermeasures and strategies to mitigate the impact of dark patterns, potentially including browser extensions, public-facing website scoring, or enhanced browser features.
+10)	Analyze Policy Implications: Analyze the implications of dark patterns on consumer protection policies, assessing the legality and ethical considerations surrounding these practices across different jurisdictions.
+11)	Evaluate Third-Party Adherence: Examine whether third-party entities comply with regulatory standards and ethical guidelines, assessing their alignment with legal and ethical expectations in facilitating deceptive practices.
+12)	Examine User Perception: Investigate user perceptions and experiences regarding dark patterns, potentially through surveys or user studies, to understand the emotional and psychological impact of encountering these tactics.
+13)	Explore Cross-Domain Patterns: Extend the research beyond shopping websites to explore dark patterns across various domains like travel, booking sites, and other online services to gauge the pervasiveness of these tactics.
+14)	Recommendations for Future Studies: Provide guidance for future studies to further explore the effects, detection, and mitigation of dark patterns, outlining areas requiring deeper investigation.
+15)	Contributions to Consumer Protection: Contribute insights and data to inform consumer protection policies, offering empirical evidence and recommendations to improve regulations and safeguard user interests online.
+16)	Sneaking:
+a.	Sneak into Basket: Unauthorized addition of extra items into the user's shopping basket without explicit consent.
+b.	Hidden Subscription: Subtle subscription sign-ups often camouflaged as free trials or essential processes.
+c.	Hidden Costs: Concealment of additional charges until late stages of checkout to mislead users about actual pricing.
+17)	Urgency:
+a.	False Time Limitation: Artificially imposed deadlines or countdowns to rush users into immediate purchases.
+b.	Countdown Timer: Visual timers suggesting limited-time offers, often manipulating the sense of urgency to prompt immediate action.
+18)	Misdirection:
+a.	Hidden Options: Deliberate obfuscation or burying of choices to steer users towards preferred, often disadvantageous, selections.
+b.	Confirmshaming: Coercive language used to guilt or shame users into making particular choices (e.g., "No, I don't want to save money").
+c.	Price Comparison Prevention: Tactics to hinder users from easily comparing prices across different platforms or sellers.
+19)	Social Proof:
+a.	Activity Notifications: Displaying misleading notifications suggesting user actions or popularity of products, sometimes falsely indicating limited stock or high demand.
+b.	Testimonials of Uncertain Origin: Usage of testimonials with unclear origins or duplicated across multiple sites without verification.
+20)	Scarcity:
+a.	Low-stock Messages: Displaying limited stock quantities or messages suggesting low availability, creating a false sense of urgency.
+b.	High-demand Messages: Indicating products as in high demand to drive a perception of scarcity and prompt quicker purchases.
+21)	Obstruction:
+a.	Hard to Cancel: Deliberate complexities or lack of transparency in the cancellation process for subscriptions or services, making it challenging for users to opt-out.
+22)	Forced Action:
+a.	Forced Enrollment: Compelling users to sign up for additional services or newsletters by linking it to essential actions or accessing site functionalities.
+23) Dark patterns are deceptive design techniques used to manipulate user behavior.
+24) Confirmshaming: Guilt-tripping users into actions.
+25) Bait-and-Switch: Offering something attractive but delivering something else.
+26) Forced Continuity: Trapping users into subscriptions or trials.
+27) Roach Motel: Easy to enter, hard to exit.
+28) Hidden Costs: Concealing charges until the last moment.
+29) Price Comparison Prevention: Blocking users from comparing prices.
+30) Sneak Into Basket: Adding items without user consent.
+31) While these tactics may boost short-term gains, they damage trust and reputation.
+32) Designers should prioritize transparent and ethical practices for long-term success.
+
